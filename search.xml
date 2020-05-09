@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>初识Kodu开发软件---Kodu少儿编程第三天</title>
+    <url>/2020/05/09/%E5%88%9D%E8%AF%86Kodu%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
+    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>Kodu开发软件是一个很简单易操作的软件，我们来了解一下他的基本功能。</p>
+<p>打开Kodu程序，进入软件界面。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/1.jpg" alt="Kodu"></p>
+<p>新闻：</p>
+<p>Kodu的一些新闻。</p>
+<p>Sign In:</p>
+<p>Kodu的用户系统。Creator是用户名，Pin可以理解为密码。不用注册，直接输入用户名和密码就能进入，这个账户就是你的专属账户。</p>
+<p>Keep me signed in when Kodu exits 如果选中，下次登录的时候还进入此账户。</p>
+<p>如果不填写用户名和密码，则用系统默认的Guest用户进入，开始学习时不用填写用户名和密码，直接进入即可。进入后如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/2.jpg" alt="Kodu"></p>
+<p>新闻：</p>
+<p>是Kodu官方的一些新闻，组织活动，更新日志等。点击新闻下面的更多，可以看到更多的新闻。可以看到，现在的新闻是Meet and Code的活动。下面是Kodu发布的日志。最新版的2019年6月12日发布的1.5.47.0。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/3.png" alt="Kodu"></p>
+<p>继续：</p>
+<p>打开上次运行过的程序。</p>
+<p>新世界：</p>
+<p>新建程序。</p>
+<p>载入世界：</p>
+<p>进入本机的程序。</p>
+<p>社群：</p>
+<p>Kodu社区的程序，世界各地所有Kodu使用者都可以把自己开发的Kodu程序上传发布到社区。</p>
+<p>选项：</p>
+<p>一些选项配置。</p>
+<p>说明：</p>
+<p>Kodu程序的介绍及使用方法。</p>
+<p>退出KODU：</p>
+<p>退出了KODU开发软件。</p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
+]]></content>
+      <tags>
+        <tag>Kodu软件</tag>
+        <tag>注册登录</tag>
+        <tag>Kodu新闻</tag>
+        <tag>Kodu介绍</tag>
+        <tag>Kodu使用</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>什么是Kodu---Kodu少儿编程第一天</title>
+    <url>/2020/05/08/%E4%BB%80%E4%B9%88%E6%98%AFKodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<p>Kodu是微软为少年儿童开发的一款可视化编程开发工具。它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。我们今天了解一下Kodu！<br> <a id="more"></a></p>
+<hr>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/1/1.jpg" alt="image"></p>
+<p>Kodu简介：</p>
+<p>Kodu全称Kodu Game Lab，是微软专门为少年儿童开发的一款可视化编程开发工具。Kodu让孩子通过简单的视觉编程语言在电脑上创建3D游戏。</p>
+<p>Kodu可视化游戏编程可能是最能激起儿童的早期编程兴趣的方法了，它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。无论是孩子还是没有编程经验的成年人都可以使用这款软件。</p>
+<p>Kodu支持用鼠标或键盘操作，内置了多款游戏模式的范例，包括冒险地图，以及若干经典游戏。面向对象的 Kodu 可视化编程，使得任何开发者都可通过某对象的“条件和语句”来实现自己的创意。</p>
+<p>Kodu旨在儿童教育，完全开源免费使用。而且Kodu的社群功能汇集了全世界小朋友们上传的世界，每个人都可以上传自己的世界，也可以下载社群上有趣的世界。</p>
+<p>Kodu支持操作系统：</p>
+<p>Kodu在 XP、Vista、Win7、Win8、Win10都能安装。</p>
+<p>软件特色： Kodu拥有多种动作模块。这种编程方式带来的好处就是：即使是一个三四岁的小孩子，他也可以在最短的时间内完成自己的设想，创造出他的世界，表达出他所要表达的思想。工具越简单，越便于掌握，在小学阶段，就越便于学生用程序设计的方式表达他的个人理念。</p>
+<p>Kodu这款编程工具，可以带给学生全新的3D环境设计的体验，所有内容都是立体的（也许不久之后，还能升级到结合VR、AR效果的虚拟现实编程工具）。</p>
+<p>以编写走迷宫程序为例，以往程序设计中，迷宫是以一种平面图形的方式呈现的，而在Kodu中，完全可以通过设置第一视角的方法，模拟出走迷宫的效果，既通过上帝视角看到迷宫的全貌增加了游戏可玩性，同时也便于学生理解走迷宫的左手定律，为后续的走迷宫机器人编程教学，奠定了体验基础。</p>
+<p>在Kodu中，不管多么复杂的游戏，只有一种语句就是WHEN……DO……，简单说就是在什么时间内（情况下）……去做什么，其他所有模块都是可以在里面进行添加，而能添加的项目，都会出现在环形菜单中的。</p>
+<p>很萌、很酷的角色（物件，对象）。而且所有的角色（物件，对象）都已经创建好了，并且可以根据自己的实际需求进行一些颜色、大小、位置、角度等方面的调整，有些角色看上去非常可爱，有些感觉非常酷。</p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="image"></p>
+]]></content>
+      <tags>
+        <tag>Kodu</tag>
+        <tag>入门</tag>
+        <tag>什么是Kodu</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Kodu的下载与安装---Kodu少儿编程第二天</title>
     <url>/2020/05/08/Kodu%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
     <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天讲解Kodu的下载与安装<br> <a id="more"></a></p>
@@ -54,72 +120,13 @@
 <p>Kodu程序的介绍及使用方法。</p>
 <p>退出KODU：</p>
 <p>退出了KODU开发软件。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="image"></p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
 ]]></content>
       <tags>
         <tag>Kodu下载</tag>
         <tag>Kodu安装</tag>
         <tag>Kodu界面</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>什么是Kodu---Kodu少儿编程第一天</title>
-    <url>/2020/05/08/%E4%BB%80%E4%B9%88%E6%98%AFKodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<p>Kodu是微软为少年儿童开发的一款可视化编程开发工具。它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。我们今天了解一下Kodu！<br> <a id="more"></a></p>
-<hr>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/1/1.jpg" alt="image"></p>
-<p>Kodu简介：</p>
-<p>Kodu全称Kodu Game Lab，是微软专门为少年儿童开发的一款可视化编程开发工具。Kodu让孩子通过简单的视觉编程语言在电脑上创建3D游戏。</p>
-<p>Kodu可视化游戏编程可能是最能激起儿童的早期编程兴趣的方法了，它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。无论是孩子还是没有编程经验的成年人都可以使用这款软件。</p>
-<p>Kodu支持用鼠标或键盘操作，内置了多款游戏模式的范例，包括冒险地图，以及若干经典游戏。面向对象的 Kodu 可视化编程，使得任何开发者都可通过某对象的“条件和语句”来实现自己的创意。</p>
-<p>Kodu旨在儿童教育，完全开源免费使用。而且Kodu的社群功能汇集了全世界小朋友们上传的世界，每个人都可以上传自己的世界，也可以下载社群上有趣的世界。</p>
-<p>Kodu支持操作系统：</p>
-<p>Kodu在 XP、Vista、Win7、Win8、Win10都能安装。</p>
-<p>软件特色： Kodu拥有多种动作模块。这种编程方式带来的好处就是：即使是一个三四岁的小孩子，他也可以在最短的时间内完成自己的设想，创造出他的世界，表达出他所要表达的思想。工具越简单，越便于掌握，在小学阶段，就越便于学生用程序设计的方式表达他的个人理念。</p>
-<p>Kodu这款编程工具，可以带给学生全新的3D环境设计的体验，所有内容都是立体的（也许不久之后，还能升级到结合VR、AR效果的虚拟现实编程工具）。</p>
-<p>以编写走迷宫程序为例，以往程序设计中，迷宫是以一种平面图形的方式呈现的，而在Kodu中，完全可以通过设置第一视角的方法，模拟出走迷宫的效果，既通过上帝视角看到迷宫的全貌增加了游戏可玩性，同时也便于学生理解走迷宫的左手定律，为后续的走迷宫机器人编程教学，奠定了体验基础。</p>
-<p>在Kodu中，不管多么复杂的游戏，只有一种语句就是WHEN……DO……，简单说就是在什么时间内（情况下）……去做什么，其他所有模块都是可以在里面进行添加，而能添加的项目，都会出现在环形菜单中的。</p>
-<p>很萌、很酷的角色（物件，对象）。而且所有的角色（物件，对象）都已经创建好了，并且可以根据自己的实际需求进行一些颜色、大小、位置、角度等方面的调整，有些角色看上去非常可爱，有些感觉非常酷。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="image"></p>
-]]></content>
-      <tags>
-        <tag>Kodu</tag>
-        <tag>入门</tag>
-        <tag>什么是Kodu</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>初识Kodu开发软件---Kodu少儿编程第三天</title>
-    <url>/2020/05/09/%E5%88%9D%E8%AF%86Kodu%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>更多资源请关注公众号：Kodu</p>
-<p>Kodu开发软件是一个很简单易操作的软件，我们来了解一下他的基本功能。</p>
-<p>打开Kodu程序，进入软件界面。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/1.jpg" alt="Kodu"></p>
-<p>新闻：</p>
-<p>Kodu的一些新闻。</p>
-<p>Sign In:</p>
-<p>Kodu的用户系统。Creator是用户名，Pin可以理解为密码。不用注册，直接输入用户名和密码就能进入，这个账户就是你的专属账户。</p>
-<p>Keep me signed in when Kodu exits 如果选中，下次登录的时候还进入此账户。</p>
-<p>如果不填写用户名和密码，则用系统默认的Guest用户进入，开始学习时不用填写用户名和密码，直接进入即可。进入后如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/2.jpg" alt="Kodu"></p>
-<p>新闻：</p>
-<p>是Kodu官方的一些新闻，组织活动，更新日志等。点击新闻下面的更多，可以看到更多的新闻。可以看到，现在的新闻是Meet and Code的活动。下面是Kodu发布的日志。最新版的2019年6月12日发布的1.5.47.0。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/3.png" alt="Kodu"></p>
-<p>继续：</p>
-<p>打开上次运行过的程序。</p>
-<p>新世界：</p>
-<p>新建程序。</p>
-<p>载入世界：</p>
-<p>进入本机的程序。</p>
-<p>社群：</p>
-<p>Kodu社区的程序，世界各地所有Kodu使用者都可以把自己开发的Kodu程序上传发布到社区。</p>
-<p>选项：</p>
-<p>一些选项配置。</p>
-<p>说明：</p>
-<p>Kodu程序的介绍及使用方法。</p>
-<p>退出KODU：</p>
-<p>退出了KODU开发软件。</p>
-]]></content>
   </entry>
   <entry>
     <title>零基础教会孩子学会Kodu少儿编程---Kodu少儿编程第零天</title>
