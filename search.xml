@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Kodu的下载与安装---Kodu少儿编程第二天</title>
+    <url>/2020/05/08/Kodu%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
+    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天讲解Kodu的下载与安装<br> <a id="more"></a></p>
+<hr>
+<p>本文介绍Kodu的下载与安装。</p>
+<p>第一步：点击Get Kodu进入下载地址。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/1.jpg" alt="Kodu"></p>
+<p>下载地址：</p>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=10056" target="_blank" rel="noopener">https://www.microsoft.com/en-us/download/details.aspx?id=10056</a></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/2.png" alt="Kodu"></p>
+<p>点击DownLoad进行下载。</p>
+<p>有两个包可供选择，任选一个进行安装。</p>
+<p>第二步：下载文件双击进行安装。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/3.png" alt="Kodu"></p>
+<p>选择您使用的语言：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/4.png" alt="Kodu"></p>
+<p>接受协议：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/5.png" alt="Kodu"></p>
+<p>选择安装目录：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/6.png" alt="Kodu"></p>
+<p>至此，Kodu程序就安装好了。您就可以打开桌面上Kodu图标进入Kodu的开发界面。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/7.jpg" alt="Kodu"></p>
+<p>Kodu支持的操作系统 ：</p>
+<p>Windows 10, Windows 7, Windows 8, Windows Vista, Windows XP</p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
+]]></content>
+      <tags>
+        <tag>Kodu下载</tag>
+        <tag>Kodu安装</tag>
+        <tag>Kodu界面</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>什么是Kodu---Kodu少儿编程第一天</title>
     <url>/2020/05/08/%E4%BB%80%E4%B9%88%E6%98%AFKodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
     <content><![CDATA[<p>Kodu是微软为少年儿童开发的一款可视化编程开发工具。它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。我们今天了解一下Kodu！<br> <a id="more"></a></p>
 <hr>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/1/1.jpg" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/1/1.jpg" alt="Kodu"></p>
 <p>Kodu简介：</p>
 <p>Kodu全称Kodu Game Lab，是微软专门为少年儿童开发的一款可视化编程开发工具。Kodu让孩子通过简单的视觉编程语言在电脑上创建3D游戏。</p>
 <p>Kodu可视化游戏编程可能是最能激起儿童的早期编程兴趣的方法了，它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。无论是孩子还是没有编程经验的成年人都可以使用这款软件。</p>
@@ -18,7 +51,7 @@
 <p>以编写走迷宫程序为例，以往程序设计中，迷宫是以一种平面图形的方式呈现的，而在Kodu中，完全可以通过设置第一视角的方法，模拟出走迷宫的效果，既通过上帝视角看到迷宫的全貌增加了游戏可玩性，同时也便于学生理解走迷宫的左手定律，为后续的走迷宫机器人编程教学，奠定了体验基础。</p>
 <p>在Kodu中，不管多么复杂的游戏，只有一种语句就是WHEN……DO……，简单说就是在什么时间内（情况下）……去做什么，其他所有模块都是可以在里面进行添加，而能添加的项目，都会出现在环形菜单中的。</p>
 <p>很萌、很酷的角色（物件，对象）。而且所有的角色（物件，对象）都已经创建好了，并且可以根据自己的实际需求进行一些颜色、大小、位置、角度等方面的调整，有些角色看上去非常可爱，有些感觉非常酷。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="image"></p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
 ]]></content>
       <tags>
         <tag>Kodu</tag>
@@ -69,73 +102,11 @@
       </tags>
   </entry>
   <entry>
-    <title>Kodu的下载与安装---Kodu少儿编程第二天</title>
-    <url>/2020/05/08/Kodu%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天讲解Kodu的下载与安装<br> <a id="more"></a></p>
-<hr>
-<p>本文介绍Kodu的下载与安装。</p>
-<p>第一步：点击Get Kodu进入下载地址。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/1.jpg" alt="image"></p>
-<p>下载地址：</p>
-<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=10056" target="_blank" rel="noopener">https://www.microsoft.com/en-us/download/details.aspx?id=10056</a></p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/2.png" alt="image"></p>
-<p>点击DownLoad进行下载。</p>
-<p>有两个包可供选择，任选一个进行安装。</p>
-<p>第二步：下载文件双击进行安装。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/3.png" alt="image"></p>
-<p>选择您使用的语言：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/4.png" alt="image"></p>
-<p>接受协议：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/5.png" alt="image"></p>
-<p>选择安装目录：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/6.png" alt="image"></p>
-<p>至此，Kodu程序就安装好了。您就可以打开桌面上Kodu图标进入Kodu的开发界面。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/7.png" alt="image"></p>
-<p>Kodu支持的操作系统 ：</p>
-<p>Windows 10, Windows 7, Windows 8, Windows Vista, Windows XP</p>
-<p>更多资源请关注公众号：Kodu</p>
-<p>Kodu开发软件是一个很简单易操作的软件，我们来了解一下他的基本功能。</p>
-<hr>
-<p>打开Kodu程序，进入软件界面。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/8.png" alt="image"></p>
-<p>新闻：</p>
-<p>Kodu的一些新闻。</p>
-<p>Sign In:</p>
-<p>Kodu的用户系统。Creator是用户名，Pin可以理解为密码。不用注册，直接输入用户名和密码就能进入，这个账户就是你的专属账户。</p>
-<p>Keep me signed in when Kodu exits 如果选中，下次登录的时候还进入此账户。</p>
-<p>如果不填写用户名和密码，则用系统默认的Guest用户进入，开始学习时不用填写用户名和密码，直接进入即可。进入后如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/9.png" alt="image"></p>
-<p>新闻：</p>
-<p>是Kodu官方的一些新闻，组织活动，更新日志等。点击新闻下面的更多，可以看到更多的新闻。可以看到，现在的新闻是Meet and Code的活动。下面是Kodu发布的日志。最新版的2019年6月12日发布的1.5.47.0。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/10.png" alt="image"></p>
-<p>继续：</p>
-<p>打开上次运行过的程序。</p>
-<p>新世界：</p>
-<p>新建程序。</p>
-<p>载入世界：</p>
-<p>进入本机的程序。</p>
-<p>社群：</p>
-<p>Kodu社区的程序，世界各地所有Kodu使用者都可以把自己开发的Kodu程序上传发布到社区。</p>
-<p>选项：</p>
-<p>一些选项配置。</p>
-<p>说明：</p>
-<p>Kodu程序的介绍及使用方法。</p>
-<p>退出KODU：</p>
-<p>退出了KODU开发软件。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu下载</tag>
-        <tag>Kodu安装</tag>
-        <tag>Kodu界面</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>零基础教会孩子学会Kodu少儿编程---Kodu少儿编程第零天</title>
     <url>/2020/05/08/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%9AKodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E9%9B%B6%E5%A4%A9/</url>
     <content><![CDATA[<p>让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。<br> <a id="more"></a></p>
 <hr>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/0/1.jpg" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/0/1.jpg" alt="Kodu"></p>
 <p>随着人工智能时候的到来，编程也越来越重要。我们也越来越离不开科技带给我们的便利。2017年浙江开始把技术(信息技术+通用)纳入选考范围。2018年天津，南京中考开始招收智能控制，机器人制作等以编程为基础的特长生。北京等大城市小学就开了编程课。各种培训班也雨后春笋似的冒出来，学习编程也显得越来越重要。</p>
 <p>疫情期间闲来无事，与三岁小儿一起玩了个叫Kodu的编程小软件，挺有意思。孩子懂事，可也太小，没有耐心。程序编不出来总是泪眼婆娑，暗自啜泣。做为父亲，特别不舍。我也没学过，不能灭了他一腔学习热忱。所以，就加紧学了一下，Kodu网上教程少，而且特别初级。所以，我把网上能找到的中英文资料全看了一遍，然后把Kodu软件每一个工具，每一个功能都试一几遍。总结了一些知识和学习技巧。也算初窥门径。至少能挡住小儿的连环三问：“在哪里？怎么弄？为什么”。</p>
 <p>本人程序员，在互联网行业浸淫已久。互联网讲究个啥：分享，免费。程序员弄点东西出来不放github上，就跟程序员不掉头发一样少见。可这个东西放在github，就像男婴拿奶瓶跟叔叔们喝酒，总是感觉怪怪的。所以就弄了一个公众号，把学习到的关于Kodu编程的知识，尽量弄的通俗易懂，放在上面。</p>
@@ -144,7 +115,7 @@
 <p>此文是个引子，我会一直更新。文章会讲解Kodu的特点、安装、相关配置，Kodu的每个一对象（角色）的使用及特点，Kodu的UI设计及大量实例，并在讲解过程中穿插真实编程中的基本概念。因为是给未接触过编程的孩子写的，所以我会尽量简单，由浅入深。</p>
 <p>学完了咱们的孩子坐着婴儿车，拿着奶瓶坐在院门口晒太阳，也许就会有掉光头发的大叔拿着一本《设计模式》说：“小朋友，我看你骨骼精奇，是万中无一的编程奇才……这本书十块钱卖给你。”一定要告诉孩子，千万别买。咱这儿有免费的公众号可以学。</p>
 <p>学完家长朋友们也再也不会纠结报什么班，花多少钱了。因为咱懂，咱会，咱也是IT圈儿里人了。家长们，让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="image"></p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
 ]]></content>
       <tags>
         <tag>Kodu</tag>
