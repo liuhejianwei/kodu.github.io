@@ -53,54 +53,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Kodu程序的菜单---Kodu少儿编程第七天</title>
-    <url>/2020/05/16/Kodu%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%8F%9C%E5%8D%95-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%83%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天我们看一下播放世界，编辑世界，储存我的世界，与社群分享，载入世界，新世界，打印阶层，退出主选单这个菜单的用法。</p>
-<a id="more"></a>
-
-<hr>
-<p>打开第六天的程序，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/1.png" alt="Kodu"></p>
-<p>点击如上图左侧的首页菜单。</p>
-<p>效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/2.png" alt="Kodu"></p>
-<p>播放世界：演示刚才开发的程序。</p>
-<p>编辑世界：编辑刚才开发的程序。</p>
-<p>储存我的世界：保存刚开发的程序。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/3.png" alt="Kodu"></p>
-<p>名称：就是我们开发的这个程序的名称。V00版本号，按其右侧的上下箭头，可以更改版本号。</p>
-<p>说明：可以对程序进行说明和描述。</p>
-<p>储存：储存一份代码到本机的我的世界,点击储存弹出如下警告，储存是覆盖当前程序，累加及储存会把版本号加1，比如：原来是v02，点击之后变成v03。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/4.png" alt="Kodu"></p>
-<p>点选标签：会显示可供选择的标签。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/5.png" alt="Kodu"></p>
-<p>与社群分享：把刚才开发的程序分享到社群，全世界所有的用户都能在社群里找到我们上传的程序，与社群分享要在联网状态。点击效果如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/6.png" alt="Kodu"></p>
-<p>我们的程序就分享到了社群中，下一天的课程我们讲解一下社群的下载功能。</p>
-<p>载入世界：进入本机的我的世界，包含各种程序的列表。</p>
-<p>新世界：新建世界。</p>
-<p>打印阶层Kode：把开发的程序代码打印出来，打印的前提要安装虚拟打印机(如下截图是windows系统默认的打印机，也可以安装其它打印机)。点击效果如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/7.png" alt="Kodu"></p>
-<p>点击确定，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/8.png" alt="Kodu"></p>
-<p>选择目录进行保存。</p>
-<p>用XPS查看器打开，就看到我们编写的代码了。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/9.png" alt="Kodu公众号"></p>
-<p>退出主选单：退出此程序，进入Kodu的首页面。</p>
-]]></content>
-      <tags>
-        <tag>Kodu菜单</tag>
-        <tag>播放世界</tag>
-        <tag>编辑世界</tag>
-        <tag>储存我的世界</tag>
-        <tag>Kodu社群</tag>
-        <tag>载入世界</tag>
-        <tag>新世界</tag>
-        <tag>打印阶层Kode</tag>
-        <tag>退出主选单</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Kodu的下载与安装---Kodu少儿编程第二天</title>
     <url>/2020/05/08/Kodu%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
     <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天讲解Kodu的下载与安装<br> <a id="more"></a></p>
@@ -188,6 +140,97 @@
         <tag>对象工具</tag>
         <tag>新增物件</tag>
         <tag>运行Kodu</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>初识Kodu开发软件---Kodu少儿编程第三天</title>
+    <url>/2020/05/09/%E5%88%9D%E8%AF%86Kodu%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
+    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>Kodu开发软件是一个很简单易操作的软件，我们来了解一下他的基本功能。</p>
+<a id="more"></a>
+
+<hr>
+<p>打开Kodu程序，进入软件界面。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/1.jpg" alt="Kodu"></p>
+<p>新闻：</p>
+<p>Kodu的一些新闻。</p>
+<p>Sign In:</p>
+<p>Kodu的用户系统。Creator是用户名，Pin可以理解为密码。不用注册，直接输入用户名和密码就能进入，这个账户就是你的专属账户。</p>
+<p>Keep me signed in when Kodu exits 如果选中，下次登录的时候还进入此账户。</p>
+<p>如果不填写用户名和密码，则用系统默认的Guest用户进入，开始学习时不用填写用户名和密码，直接进入即可。进入后如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/2.jpg" alt="Kodu"></p>
+<p>新闻：</p>
+<p>是Kodu官方的一些新闻，组织活动，更新日志等。点击新闻下面的更多，可以看到更多的新闻。可以看到，现在的新闻是Meet and Code的活动。下面是Kodu发布的日志。最新版的2019年6月12日发布的1.5.47.0。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/3.png" alt="Kodu"></p>
+<p>继续：</p>
+<p>打开上次运行过的程序。</p>
+<p>新世界：</p>
+<p>新建程序。</p>
+<p>载入世界：</p>
+<p>进入本机的程序。</p>
+<p>社群：</p>
+<p>Kodu社区的程序，世界各地所有Kodu使用者都可以把自己开发的Kodu程序上传发布到社区。</p>
+<p>选项：</p>
+<p>一些选项配置。</p>
+<p>说明：</p>
+<p>Kodu程序的介绍及使用方法。</p>
+<p>退出KODU：</p>
+<p>退出了KODU开发软件。</p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
+]]></content>
+      <tags>
+        <tag>Kodu软件</tag>
+        <tag>注册登录</tag>
+        <tag>Kodu新闻</tag>
+        <tag>Kodu介绍</tag>
+        <tag>Kodu使用</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Kodu程序的菜单---Kodu少儿编程第七天</title>
+    <url>/2020/05/16/Kodu%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%8F%9C%E5%8D%95-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%83%E5%A4%A9/</url>
+    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天我们看一下播放世界，编辑世界，储存我的世界，与社群分享，载入世界，新世界，打印阶层，退出主选单这个菜单的用法。</p>
+<a id="more"></a>
+
+<hr>
+<p>打开第六天的程序，如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/1.png" alt="Kodu"></p>
+<p>点击如上图左侧的首页菜单。</p>
+<p>效果如下：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/2.png" alt="Kodu"></p>
+<p>播放世界：演示刚才开发的程序。</p>
+<p>编辑世界：编辑刚才开发的程序。</p>
+<p>储存我的世界：保存刚开发的程序。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/3.png" alt="Kodu"></p>
+<p>名称：就是我们开发的这个程序的名称。V00版本号，按其右侧的上下箭头，可以更改版本号。</p>
+<p>说明：可以对程序进行说明和描述。</p>
+<p>储存：储存一份代码到本机的我的世界,点击储存弹出如下警告，储存是覆盖当前程序，累加及储存会把版本号加1，比如：原来是v02，点击之后变成v03。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/4.png" alt="Kodu"></p>
+<p>点选标签：会显示可供选择的标签。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/5.png" alt="Kodu"></p>
+<p>与社群分享：把刚才开发的程序分享到社群，全世界所有的用户都能在社群里找到我们上传的程序，与社群分享要在联网状态。点击效果如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/6.png" alt="Kodu"></p>
+<p>我们的程序就分享到了社群中，下一天的课程我们讲解一下社群的下载功能。</p>
+<p>载入世界：进入本机的我的世界，包含各种程序的列表。</p>
+<p>新世界：新建世界。</p>
+<p>打印阶层Kode：把开发的程序代码打印出来，打印的前提要安装虚拟打印机(如下截图是windows系统默认的打印机，也可以安装其它打印机)。点击效果如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/7.png" alt="Kodu"></p>
+<p>点击确定，如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/8.png" alt="Kodu"></p>
+<p>选择目录进行保存。</p>
+<p>用XPS查看器打开，就看到我们编写的代码了。如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/9.png" alt="Kodu公众号"></p>
+<p>退出主选单：退出此程序，进入Kodu的首页面。</p>
+]]></content>
+      <tags>
+        <tag>Kodu菜单</tag>
+        <tag>播放世界</tag>
+        <tag>编辑世界</tag>
+        <tag>储存我的世界</tag>
+        <tag>Kodu社群</tag>
+        <tag>载入世界</tag>
+        <tag>新世界</tag>
+        <tag>打印阶层Kode</tag>
+        <tag>退出主选单</tag>
       </tags>
   </entry>
   <entry>
@@ -284,49 +327,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>初识Kodu开发软件---Kodu少儿编程第三天</title>
-    <url>/2020/05/09/%E5%88%9D%E8%AF%86Kodu%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>Kodu开发软件是一个很简单易操作的软件，我们来了解一下他的基本功能。</p>
-<a id="more"></a>
-
-<hr>
-<p>打开Kodu程序，进入软件界面。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/1.jpg" alt="Kodu"></p>
-<p>新闻：</p>
-<p>Kodu的一些新闻。</p>
-<p>Sign In:</p>
-<p>Kodu的用户系统。Creator是用户名，Pin可以理解为密码。不用注册，直接输入用户名和密码就能进入，这个账户就是你的专属账户。</p>
-<p>Keep me signed in when Kodu exits 如果选中，下次登录的时候还进入此账户。</p>
-<p>如果不填写用户名和密码，则用系统默认的Guest用户进入，开始学习时不用填写用户名和密码，直接进入即可。进入后如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/2.jpg" alt="Kodu"></p>
-<p>新闻：</p>
-<p>是Kodu官方的一些新闻，组织活动，更新日志等。点击新闻下面的更多，可以看到更多的新闻。可以看到，现在的新闻是Meet and Code的活动。下面是Kodu发布的日志。最新版的2019年6月12日发布的1.5.47.0。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/3.png" alt="Kodu"></p>
-<p>继续：</p>
-<p>打开上次运行过的程序。</p>
-<p>新世界：</p>
-<p>新建程序。</p>
-<p>载入世界：</p>
-<p>进入本机的程序。</p>
-<p>社群：</p>
-<p>Kodu社区的程序，世界各地所有Kodu使用者都可以把自己开发的Kodu程序上传发布到社区。</p>
-<p>选项：</p>
-<p>一些选项配置。</p>
-<p>说明：</p>
-<p>Kodu程序的介绍及使用方法。</p>
-<p>退出KODU：</p>
-<p>退出了KODU开发软件。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu软件</tag>
-        <tag>注册登录</tag>
-        <tag>Kodu新闻</tag>
-        <tag>Kodu介绍</tag>
-        <tag>Kodu使用</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>社群的使用---Kodu少儿编程第八天</title>
     <url>/2020/05/16/%E7%A4%BE%E7%BE%A4%E7%9A%84%E4%BD%BF%E7%94%A8-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%85%AB%E5%A4%A9/</url>
     <content><![CDATA[<p>社群是Kodu的一个交流平台，用户可以把自己开发的程序上传，也可以下载别人开发的程序。</p>
@@ -419,27 +419,6 @@
       </tags>
   </entry>
   <entry>
-    <title>零基础教会孩子学会Kodu少儿编程---Kodu少儿编程第零天</title>
-    <url>/2020/05/08/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%9AKodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E9%9B%B6%E5%A4%A9/</url>
-    <content><![CDATA[<p>让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。<br> <a id="more"></a></p>
-<hr>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/0/1.jpg" alt="Kodu"></p>
-<p>随着人工智能时候的到来，编程也越来越重要。我们也越来越离不开科技带给我们的便利。2017年浙江开始把技术(信息技术+通用)纳入选考范围。2018年天津，南京中考开始招收智能控制，机器人制作等以编程为基础的特长生。北京等大城市小学就开了编程课。各种培训班也雨后春笋似的冒出来，学习编程也显得越来越重要。</p>
-<p>疫情期间闲来无事，与三岁小儿一起玩了个叫Kodu的编程小软件，挺有意思。孩子懂事，可也太小，没有耐心。程序编不出来总是泪眼婆娑，暗自啜泣。做为父亲，特别不舍。我也没学过，不能灭了他一腔学习热忱。所以，就加紧学了一下，Kodu网上教程少，而且特别初级。所以，我把网上能找到的中英文资料全看了一遍，然后把Kodu软件每一个工具，每一个功能都试一几遍。总结了一些知识和学习技巧。也算初窥门径。至少能挡住小儿的连环三问：“在哪里？怎么弄？为什么”。</p>
-<p>本人程序员，在互联网行业浸淫已久。互联网讲究个啥：分享，免费。程序员弄点东西出来不放github上，就跟程序员不掉头发一样少见。可这个东西放在github，就像男婴拿奶瓶跟叔叔们喝酒，总是感觉怪怪的。所以就弄了一个公众号，把学习到的关于Kodu编程的知识，尽量弄的通俗易懂，放在上面。</p>
-<p>少儿编程的信息，暴风骤雨似的向我们袭来，培训机构也如雨后春笋似的冒出来。家长朋友们又有了新的起跑线焦虑。随之产生了诸多疑问：要不要学少儿编程？几岁学？怎么学?学了有什么用？等等一系列关于少儿编程的问题。有些问题我能解答，有些问题我也不懂。上了学的孩子们肯定都知道“小马过河”的故事，也知道这个故事告诉我们要勇于尝试，所以，让孩子试试吧。</p>
-<p>这系列文章非常适合了解电脑基本操作孩子学习。更适合家长和孩子一起学习。</p>
-<p>此文是个引子，我会一直更新。文章会讲解Kodu的特点、安装、相关配置，Kodu的每个一对象（角色）的使用及特点，Kodu的UI设计及大量实例，并在讲解过程中穿插真实编程中的基本概念。因为是给未接触过编程的孩子写的，所以我会尽量简单，由浅入深。</p>
-<p>学完了咱们的孩子坐着婴儿车，拿着奶瓶坐在院门口晒太阳，也许就会有掉光头发的大叔拿着一本《设计模式》说：“小朋友，我看你骨骼精奇，是万中无一的编程奇才……这本书十块钱卖给你。”一定要告诉孩子，千万别买。咱这儿有免费的公众号可以学。</p>
-<p>学完家长朋友们也再也不会纠结报什么班，花多少钱了。因为咱懂，咱会，咱也是IT圈儿里人了。家长们，让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu</tag>
-        <tag>少儿编程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>颜色选择器---Kodu少儿编程第九天</title>
     <url>/2020/05/16/%E9%A2%9C%E8%89%B2%E9%80%89%E6%8B%A9%E5%99%A8-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B9%9D%E5%A4%A9/</url>
     <content><![CDATA[<p>更多资源请关注公众号：Kodu</p>
@@ -482,6 +461,27 @@
         <tag>颜色选择器</tag>
         <tag>Kodu中的UI</tag>
         <tag>标识</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>零基础教会孩子学会Kodu少儿编程---Kodu少儿编程第零天</title>
+    <url>/2020/05/08/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%9AKodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E9%9B%B6%E5%A4%A9/</url>
+    <content><![CDATA[<p>让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。<br> <a id="more"></a></p>
+<hr>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/0/1.jpg" alt="Kodu"></p>
+<p>随着人工智能时候的到来，编程也越来越重要。我们也越来越离不开科技带给我们的便利。2017年浙江开始把技术(信息技术+通用)纳入选考范围。2018年天津，南京中考开始招收智能控制，机器人制作等以编程为基础的特长生。北京等大城市小学就开了编程课。各种培训班也雨后春笋似的冒出来，学习编程也显得越来越重要。</p>
+<p>疫情期间闲来无事，与三岁小儿一起玩了个叫Kodu的编程小软件，挺有意思。孩子懂事，可也太小，没有耐心。程序编不出来总是泪眼婆娑，暗自啜泣。做为父亲，特别不舍。我也没学过，不能灭了他一腔学习热忱。所以，就加紧学了一下，Kodu网上教程少，而且特别初级。所以，我把网上能找到的中英文资料全看了一遍，然后把Kodu软件每一个工具，每一个功能都试一几遍。总结了一些知识和学习技巧。也算初窥门径。至少能挡住小儿的连环三问：“在哪里？怎么弄？为什么”。</p>
+<p>本人程序员，在互联网行业浸淫已久。互联网讲究个啥：分享，免费。程序员弄点东西出来不放github上，就跟程序员不掉头发一样少见。可这个东西放在github，就像男婴拿奶瓶跟叔叔们喝酒，总是感觉怪怪的。所以就弄了一个公众号，把学习到的关于Kodu编程的知识，尽量弄的通俗易懂，放在上面。</p>
+<p>少儿编程的信息，暴风骤雨似的向我们袭来，培训机构也如雨后春笋似的冒出来。家长朋友们又有了新的起跑线焦虑。随之产生了诸多疑问：要不要学少儿编程？几岁学？怎么学?学了有什么用？等等一系列关于少儿编程的问题。有些问题我能解答，有些问题我也不懂。上了学的孩子们肯定都知道“小马过河”的故事，也知道这个故事告诉我们要勇于尝试，所以，让孩子试试吧。</p>
+<p>这系列文章非常适合了解电脑基本操作孩子学习。更适合家长和孩子一起学习。</p>
+<p>此文是个引子，我会一直更新。文章会讲解Kodu的特点、安装、相关配置，Kodu的每个一对象（角色）的使用及特点，Kodu的UI设计及大量实例，并在讲解过程中穿插真实编程中的基本概念。因为是给未接触过编程的孩子写的，所以我会尽量简单，由浅入深。</p>
+<p>学完了咱们的孩子坐着婴儿车，拿着奶瓶坐在院门口晒太阳，也许就会有掉光头发的大叔拿着一本《设计模式》说：“小朋友，我看你骨骼精奇，是万中无一的编程奇才……这本书十块钱卖给你。”一定要告诉孩子，千万别买。咱这儿有免费的公众号可以学。</p>
+<p>学完家长朋友们也再也不会纠结报什么班，花多少钱了。因为咱懂，咱会，咱也是IT圈儿里人了。家长们，让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。</p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
+]]></content>
+      <tags>
+        <tag>Kodu</tag>
+        <tag>少儿编程</tag>
       </tags>
   </entry>
 </search>
