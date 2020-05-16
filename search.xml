@@ -191,29 +191,55 @@
       </tags>
   </entry>
   <entry>
-    <title>什么是Kodu---Kodu少儿编程第一天</title>
-    <url>/2020/05/08/%E4%BB%80%E4%B9%88%E6%98%AFKodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<p>Kodu是微软为少年儿童开发的一款可视化编程开发工具。它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。我们今天了解一下Kodu！<br> <a id="more"></a></p>
+    <title>让Kodu动起来---Kodu少儿编程第五天</title>
+    <url>/2020/05/16/%E8%AE%A9Kodu%E5%8A%A8%E8%B5%B7%E6%9D%A5-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
+    <content><![CDATA[<p>我们先学一下Kodu的基本语句：”WHEN””DO”,然后简单了解一下对象工具。最后编一个简单有趣的小程序。<br> <a id="more"></a></p>
 <hr>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/1/1.jpg" alt="Kodu"></p>
-<p>Kodu简介：</p>
-<p>Kodu全称Kodu Game Lab，是微软专门为少年儿童开发的一款可视化编程开发工具。Kodu让孩子通过简单的视觉编程语言在电脑上创建3D游戏。</p>
-<p>Kodu可视化游戏编程可能是最能激起儿童的早期编程兴趣的方法了，它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。无论是孩子还是没有编程经验的成年人都可以使用这款软件。</p>
-<p>Kodu支持用鼠标或键盘操作，内置了多款游戏模式的范例，包括冒险地图，以及若干经典游戏。面向对象的 Kodu 可视化编程，使得任何开发者都可通过某对象的“条件和语句”来实现自己的创意。</p>
-<p>Kodu旨在儿童教育，完全开源免费使用。而且Kodu的社群功能汇集了全世界小朋友们上传的世界，每个人都可以上传自己的世界，也可以下载社群上有趣的世界。</p>
-<p>Kodu支持操作系统：</p>
-<p>Kodu在 XP、Vista、Win7、Win8、Win10都能安装。</p>
-<p>软件特色： Kodu拥有多种动作模块。这种编程方式带来的好处就是：即使是一个三四岁的小孩子，他也可以在最短的时间内完成自己的设想，创造出他的世界，表达出他所要表达的思想。工具越简单，越便于掌握，在小学阶段，就越便于学生用程序设计的方式表达他的个人理念。</p>
-<p>Kodu这款编程工具，可以带给学生全新的3D环境设计的体验，所有内容都是立体的（也许不久之后，还能升级到结合VR、AR效果的虚拟现实编程工具）。</p>
-<p>以编写走迷宫程序为例，以往程序设计中，迷宫是以一种平面图形的方式呈现的，而在Kodu中，完全可以通过设置第一视角的方法，模拟出走迷宫的效果，既通过上帝视角看到迷宫的全貌增加了游戏可玩性，同时也便于学生理解走迷宫的左手定律，为后续的走迷宫机器人编程教学，奠定了体验基础。</p>
-<p>在Kodu中，不管多么复杂的游戏，只有一种语句就是WHEN……DO……，简单说就是在什么时间内（情况下）……去做什么，其他所有模块都是可以在里面进行添加，而能添加的项目，都会出现在环形菜单中的。</p>
-<p>很萌、很酷的角色（物件，对象）。而且所有的角色（物件，对象）都已经创建好了，并且可以根据自己的实际需求进行一些颜色、大小、位置、角度等方面的调整，有些角色看上去非常可爱，有些感觉非常酷。</p>
+<p>编程之前我们先介绍两个概念：</p>
+<p>1，WHEN…DO…</p>
+<p>Kodu程序的语句结构很简单，只有一种格式：WHEN…DO…写程序时，只需在WHEN后面添加事件，也就是触发程序运行的条件，然后在DO后面添加要执行的动作即可。</p>
+<p>意思就是WHEN(满足某种条件)DO(执行某种操作)。</p>
+<p>2，对象</p>
+<p>对象工具可以新建物件（英文名称是object，个人觉得翻译成对象更为合理，对象在各种编程语言里都是一个非常重要的概念），对象工具可以创建物件（对象），只有对象工具创建的物件（对象）才可以进行编程。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/1.png" alt="Kodu"></p>
+<p>第一步：</p>
+<p>选择对象工具</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/2.png" alt="Kodu"></p>
+<p>第二步：</p>
+<p>地面上右键单击选择新增物件</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/3.png" alt="Kodu"></p>
+<p>第三步：</p>
+<p>选择kodu</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/4.png" alt="Kodu"></p>
+<p>第四步：</p>
+<p>鼠标放到Kodu上会显示如下菜单栏，选择编排程序。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/5.png" alt="Kodu"></p>
+<p>我们就能看到when和do两个关键字了，我们就在这里编程</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/6.png" alt="Kodu"></p>
+<p>第五步：</p>
+<p>点击when右边的+号，选择键盘</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/7.png" alt="Kodu"></p>
+<p>第六步：</p>
+<p>选择键盘后面的+号，选择箭号键。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/8.png" alt="Kodu"></p>
+<p>第七步：</p>
+<p>选择do后面的+号，选择移动。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/9.png" alt="Kodu"></p>
+<p>我们的程序就编好了。</p>
+<p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p>
+<p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了。</p>
+<p>我们学到的知识点：</p>
+<p>1，WHEN…DO…的用法</p>
+<p>2，对象工具和新建物件</p>
+<p>3，键盘和箭号键</p>
+<p>4，移动：不同角色有不同的移动能力，移动能力也可以在属性里配置</p>
+<p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第五天”。会把源代码文件的链接和提取码发给您。</p>
+<p>您把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p>
 <p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
 ]]></content>
       <tags>
-        <tag>Kodu</tag>
-        <tag>入门</tag>
-        <tag>什么是Kodu</tag>
+        <tag>WHEN...DO...</tag>
+        <tag>Kodu移动</tag>
       </tags>
   </entry>
   <entry>
@@ -301,58 +327,6 @@
       </tags>
   </entry>
   <entry>
-    <title>让Kodu动起来---Kodu少儿编程第五天</title>
-    <url>/2020/05/16/%E8%AE%A9Kodu%E5%8A%A8%E8%B5%B7%E6%9D%A5-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
-    <content><![CDATA[<p>我们先学一下Kodu的基本语句：”WHEN””DO”,然后简单了解一下对象工具。最后编一个简单有趣的小程序。<br> <a id="more"></a></p>
-<hr>
-<p>编程之前我们先介绍两个概念：</p>
-<p>1，WHEN…DO…</p>
-<p>Kodu程序的语句结构很简单，只有一种格式：WHEN…DO…写程序时，只需在WHEN后面添加事件，也就是触发程序运行的条件，然后在DO后面添加要执行的动作即可。</p>
-<p>意思就是WHEN(满足某种条件)DO(执行某种操作)。</p>
-<p>2，对象</p>
-<p>对象工具可以新建物件（英文名称是object，个人觉得翻译成对象更为合理，对象在各种编程语言里都是一个非常重要的概念），对象工具可以创建物件（对象），只有对象工具创建的物件（对象）才可以进行编程。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/1.png" alt="Kodu"></p>
-<p>第一步：</p>
-<p>选择对象工具</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/2.png" alt="Kodu"></p>
-<p>第二步：</p>
-<p>地面上右键单击选择新增物件</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/3.png" alt="Kodu"></p>
-<p>第三步：</p>
-<p>选择kodu</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/4.png" alt="Kodu"></p>
-<p>第四步：</p>
-<p>鼠标放到Kodu上会显示如下菜单栏，选择编排程序。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/5.png" alt="Kodu"></p>
-<p>我们就能看到when和do两个关键字了，我们就在这里编程</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/6.png" alt="Kodu"></p>
-<p>第五步：</p>
-<p>点击when右边的+号，选择键盘</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/7.png" alt="Kodu"></p>
-<p>第六步：</p>
-<p>选择键盘后面的+号，选择箭号键。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/8.png" alt="Kodu"></p>
-<p>第七步：</p>
-<p>选择do后面的+号，选择移动。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/9.png" alt="Kodu"></p>
-<p>我们的程序就编好了。</p>
-<p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p>
-<p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了。</p>
-<p>我们学到的知识点：</p>
-<p>1，WHEN…DO…的用法</p>
-<p>2，对象工具和新建物件</p>
-<p>3，键盘和箭号键</p>
-<p>4，移动：不同角色有不同的移动能力，移动能力也可以在属性里配置</p>
-<p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第五天”。会把源代码文件的链接和提取码发给您。</p>
-<p>您把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>WHEN...DO...</tag>
-        <tag>Kodu移动</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>零基础教会孩子学会Kodu少儿编程---Kodu少儿编程第零天</title>
     <url>/2020/05/08/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%9AKodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E9%9B%B6%E5%A4%A9/</url>
     <content><![CDATA[<p>让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。<br> <a id="more"></a></p>
@@ -371,6 +345,77 @@
       <tags>
         <tag>Kodu</tag>
         <tag>少儿编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>颜色选择器---Kodu少儿编程第九天</title>
+    <url>/2020/05/16/%E9%A2%9C%E8%89%B2%E9%80%89%E6%8B%A9%E5%99%A8-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B9%9D%E5%A4%A9/</url>
+    <content><![CDATA[<p>更多资源请关注公众号：Kodu</p>
+<p>第六天的课程我们用颜色选择器把红色苹果变成绿色，其实颜色选择器还有更重要的作用。</p>
+<p>我们看一下颜色选择器的作用。</p>
+<a id="more"></a>
+
+<hr>
+<p>打开第六天的程序。</p>
+<p>第一步：</p>
+<p>在第六天程序基础上新加一个红色苹果。如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/1.png" alt="Kodu"></p>
+<p>第二步：</p>
+<p>Kodu角色上右键单击，选择编排程序，然后点击第二行苹果后面的+号，如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/2.png" alt="Kodu"></p>
+<p>第三步：</p>
+<p>点击颜色</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/3.png" alt="Kodu"></p>
+<p>第四步：</p>
+<p>选择绿色，如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/4.png" alt="Kodu"></p>
+<p>最后效果，如下图：</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/5.png" alt="Kodu"></p>
+<p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p>
+<p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了，让Kodu移动，碰到绿色苹果，就把苹果吃掉了，碰到红色苹果吃不掉。</p>
+<p>颜色选择器不仅UI中使用，更是为提供了角色的标识。</p>
+<p>我们介绍编程中两个重要的概念：</p>
+<p>UI：对软件的人机交互、操作逻辑、界面美观的整体设计。简单来说，看到的东西就是UI，在我们的Kodu中地面、颜色、山丘、山谷、水工具属于UI，他们用于用户界面的显示，并不能对他们进行编程。前文讲到过，对象工具里新建角色是对象，可以进行编程。</p>
+<p>标识：识别，表明特征的记号或事物。颜色是一个记号，告诉程序正在编程的是哪个对象（我们程序中吃的是绿色的苹果对象）。我们的Kodu还有一个更重要的标识，以后我们再讲。</p>
+<p>我们学到的知识点：</p>
+<p>1，颜色选择器的作用</p>
+<p>2，UI</p>
+<p>3，标识</p>
+<p>此程序的源代码文件下载方法：关注公众号Kodu。将此文章分享至朋友圈，然后在公众号回复“第九天”。会把源代码文件的链接和提取码发给您。</p>
+<p>把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
+]]></content>
+      <tags>
+        <tag>苹果</tag>
+        <tag>颜色选择器</tag>
+        <tag>Kodu中的UI</tag>
+        <tag>标识</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>什么是Kodu---Kodu少儿编程第一天</title>
+    <url>/2020/05/08/%E4%BB%80%E4%B9%88%E6%98%AFKodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<p>Kodu是微软为少年儿童开发的一款可视化编程开发工具。它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。我们今天了解一下Kodu！<br> <a id="more"></a></p>
+<hr>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/1/1.jpg" alt="Kodu"></p>
+<p>Kodu简介：</p>
+<p>Kodu全称Kodu Game Lab，是微软专门为少年儿童开发的一款可视化编程开发工具。Kodu让孩子通过简单的视觉编程语言在电脑上创建3D游戏。</p>
+<p>Kodu可视化游戏编程可能是最能激起儿童的早期编程兴趣的方法了，它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。无论是孩子还是没有编程经验的成年人都可以使用这款软件。</p>
+<p>Kodu支持用鼠标或键盘操作，内置了多款游戏模式的范例，包括冒险地图，以及若干经典游戏。面向对象的 Kodu 可视化编程，使得任何开发者都可通过某对象的“条件和语句”来实现自己的创意。</p>
+<p>Kodu旨在儿童教育，完全开源免费使用。而且Kodu的社群功能汇集了全世界小朋友们上传的世界，每个人都可以上传自己的世界，也可以下载社群上有趣的世界。</p>
+<p>Kodu支持操作系统：</p>
+<p>Kodu在 XP、Vista、Win7、Win8、Win10都能安装。</p>
+<p>软件特色： Kodu拥有多种动作模块。这种编程方式带来的好处就是：即使是一个三四岁的小孩子，他也可以在最短的时间内完成自己的设想，创造出他的世界，表达出他所要表达的思想。工具越简单，越便于掌握，在小学阶段，就越便于学生用程序设计的方式表达他的个人理念。</p>
+<p>Kodu这款编程工具，可以带给学生全新的3D环境设计的体验，所有内容都是立体的（也许不久之后，还能升级到结合VR、AR效果的虚拟现实编程工具）。</p>
+<p>以编写走迷宫程序为例，以往程序设计中，迷宫是以一种平面图形的方式呈现的，而在Kodu中，完全可以通过设置第一视角的方法，模拟出走迷宫的效果，既通过上帝视角看到迷宫的全貌增加了游戏可玩性，同时也便于学生理解走迷宫的左手定律，为后续的走迷宫机器人编程教学，奠定了体验基础。</p>
+<p>在Kodu中，不管多么复杂的游戏，只有一种语句就是WHEN……DO……，简单说就是在什么时间内（情况下）……去做什么，其他所有模块都是可以在里面进行添加，而能添加的项目，都会出现在环形菜单中的。</p>
+<p>很萌、很酷的角色（物件，对象）。而且所有的角色（物件，对象）都已经创建好了，并且可以根据自己的实际需求进行一些颜色、大小、位置、角度等方面的调整，有些角色看上去非常可爱，有些感觉非常酷。</p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
+]]></content>
+      <tags>
+        <tag>Kodu</tag>
+        <tag>入门</tag>
+        <tag>什么是Kodu</tag>
       </tags>
   </entry>
 </search>
