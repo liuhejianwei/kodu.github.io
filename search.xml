@@ -10,30 +10,30 @@
 <hr>
 <p>第一步：</p>
 <p>选择对象工具，在地面上右键，选择新增物件。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/1.png" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/1.png" alt="Kodu"></p>
 <p>选择苹果，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/2.png" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/2.png" alt="Kodu"></p>
 <p>第二步：</p>
 <p>鼠标放到Kodu上，右键点击。选择编排程序。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/3.png" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/3.png" alt="Kodu"></p>
 <p>第三步：</p>
 <p>在第二行点击WHEN后面的+，选择碰到，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/4.png" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/4.png" alt="Kodu"></p>
 <p>点击碰到后面的+号，再点击物件，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/5.png" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/5.png" alt="Kodu"></p>
 <p>选择苹果，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/6.png" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/6.png" alt="Kodu"></p>
 <p>第四步：</p>
 <p>点击第二行“DO”后面的+号，选择吃。效果如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/7.png" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/7.png" alt="Kodu"></p>
 <p>我们的程序就编好了。</p>
 <p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p>
 <p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了，让Kodu移动，碰到苹果，就把苹果吃掉了。</p>
 <p>我们把鼠标放到苹果上，屏幕上方会出现颜色选择器，它用于改变物件的颜色。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/8.png" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/8.png" alt="Kodu"></p>
 <p>按鼠标键盘箭号键的左或右，可以切换颜色。</p>
 <p>现在我们的苹果已经是绿色的了，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/9.png" alt="image"></p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/9.png" alt="Kodu"></p>
 <p>我们学到的知识点：</p>
 <p>1，苹果物件</p>
 <p>2，碰到：当你碰到另一个对象时，根据类型、颜色等状态作出反应</p>
@@ -43,6 +43,71 @@
 <p>您把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p>
 <p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
 ]]></content>
+      <tags>
+        <tag>Kodu吃</tag>
+        <tag>Kodu编排程序</tag>
+        <tag>Kodu新增物件</tag>
+        <tag>苹果</tag>
+        <tag>颜色选择器</tag>
+        <tag>Kodu碰到</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>World---kodu少儿编程第四天</title>
+    <url>/2020/05/14/World-kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%9B%9B%E5%A4%A9/</url>
+    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天我们做一个Hello World的小程序，几乎所有程序，所有语言学习的第一个程序都是“Hello World”。</p>
+<a id="more"></a>
+
+<hr>
+<p>第一步：</p>
+<p>点击新世界</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/1.jpg" alt="Kodu"></p>
+<p>第二步：</p>
+<p>选择“对象工具”</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/2.jpg" alt="Kodu"></p>
+<p>第三步：</p>
+<p>右键在地面上新增物件</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/3.jpg" alt="Kodu"></p>
+<p>第四步：</p>
+<p>选择Kodu</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/4.jpg" alt="Kodu"></p>
+<p>第五步：</p>
+<p>鼠标放到Kodu上，右键选择编排程序</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/5.jpg" alt="Kodu"></p>
+<p>点击do后面的+号</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/6.jpg" alt="Kodu"></p>
+<p>选择动作</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/7.jpg" alt="Kodu"></p>
+<p>选择说</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/8.jpg" alt="Kodu"></p>
+<p>在弹出的文本框中写上“Hello World”，并点击储存。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/9.png" alt="Kodu"></p>
+<p>我们第一个程序，就完成了。</p>
+<p>下面我们运行一下这个程序：</p>
+<p>按esc键，退出到地面界面。</p>
+<p>再点击玩游戏键或再按一次esc键。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/10.png" alt="Kodu"></p>
+<p>Kodu会显示“Hello World”，我们第一个Kodu程序就运行起来了。</p>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/11.jpg" alt="Kodu"></p>
+<p>我们学到的知识点：</p>
+<p>1，新建世界</p>
+<p>2，对象工具：对象工具里新建的是物件，又叫角色，也可称为对象。</p>
+<p>3，选择物件（角色， 对象）</p>
+<p>4，编排程序</p>
+<p>5，do语句：Kodu有两个语句，另一个是when。我们下一天的课程来讲when和do的用法。</p>
+<p>6，“说”动作</p>
+<p>7，运行程序：可以按esc运行，也可以按运行按钮运行程序。</p>
+<p>8，世界上第一个程序是Hello World：Hello World 中文意思是“你好,世界”。1978年非常著名的《The C Programming Language》中使用它作为第一个演示程序，所以后来的程序员在学习编程或进行设备调试时延续了这一习惯。</p>
+<p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第四天”。会把源代码文件的链接和提取码发给您。</p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
+]]></content>
+      <tags>
+        <tag>Hello World</tag>
+        <tag>新建世界</tag>
+        <tag>对象工具</tag>
+        <tag>新增物件</tag>
+        <tag>运行Kodu</tag>
+      </tags>
   </entry>
   <entry>
     <title>初识Kodu开发软件---Kodu少儿编程第三天</title>
@@ -147,84 +212,6 @@
       </tags>
   </entry>
   <entry>
-    <title>World---kodu少儿编程第四天</title>
-    <url>/2020/05/14/World-kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%9B%9B%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天我们做一个Hello World的小程序，几乎所有程序，所有语言学习的第一个程序都是“Hello World”。</p>
-<a id="more"></a>
-
-<hr>
-<p>第一步：</p>
-<p>点击新世界</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/1.jpg" alt="Kodu"></p>
-<p>第二步：</p>
-<p>选择“对象工具”</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/2.jpg" alt="Kodu"></p>
-<p>第三步：</p>
-<p>右键在地面上新增物件</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/3.jpg" alt="Kodu"></p>
-<p>第四步：</p>
-<p>选择Kodu</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/4.jpg" alt="Kodu"></p>
-<p>第五步：</p>
-<p>鼠标放到Kodu上，右键选择编排程序</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/5.jpg" alt="Kodu"></p>
-<p>点击do后面的+号</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/6.jpg" alt="Kodu"></p>
-<p>选择动作</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/7.jpg" alt="Kodu"></p>
-<p>选择说</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/8.jpg" alt="Kodu"></p>
-<p>在弹出的文本框中写上“Hello World”，并点击储存。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/9.png" alt="Kodu"></p>
-<p>我们第一个程序，就完成了。</p>
-<p>下面我们运行一下这个程序：</p>
-<p>按esc键，退出到地面界面。</p>
-<p>再点击玩游戏键或再按一次esc键。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/10.png" alt="Kodu"></p>
-<p>Kodu会显示“Hello World”，我们第一个Kodu程序就运行起来了。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/11.jpg" alt="Kodu"></p>
-<p>我们学到的知识点：</p>
-<p>1，新建世界</p>
-<p>2，对象工具：对象工具里新建的是物件，又叫角色，也可称为对象。</p>
-<p>3，选择物件（角色， 对象）</p>
-<p>4，编排程序</p>
-<p>5，do语句：Kodu有两个语句，另一个是when。我们下一天的课程来讲when和do的用法。</p>
-<p>6，“说”动作</p>
-<p>7，运行程序：可以按esc运行，也可以按运行按钮运行程序。</p>
-<p>8，世界上第一个程序是Hello World：Hello World 中文意思是“你好,世界”。1978年非常著名的《The C Programming Language》中使用它作为第一个演示程序，所以后来的程序员在学习编程或进行设备调试时延续了这一习惯。</p>
-<p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第四天”。会把源代码文件的链接和提取码发给您。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Hello World</tag>
-        <tag>新建世界</tag>
-        <tag>对象工具</tag>
-        <tag>新增物件</tag>
-        <tag>运行Kodu</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>零基础教会孩子学会Kodu少儿编程---Kodu少儿编程第零天</title>
-    <url>/2020/05/08/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%9AKodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E9%9B%B6%E5%A4%A9/</url>
-    <content><![CDATA[<p>让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。<br> <a id="more"></a></p>
-<hr>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/0/1.jpg" alt="Kodu"></p>
-<p>随着人工智能时候的到来，编程也越来越重要。我们也越来越离不开科技带给我们的便利。2017年浙江开始把技术(信息技术+通用)纳入选考范围。2018年天津，南京中考开始招收智能控制，机器人制作等以编程为基础的特长生。北京等大城市小学就开了编程课。各种培训班也雨后春笋似的冒出来，学习编程也显得越来越重要。</p>
-<p>疫情期间闲来无事，与三岁小儿一起玩了个叫Kodu的编程小软件，挺有意思。孩子懂事，可也太小，没有耐心。程序编不出来总是泪眼婆娑，暗自啜泣。做为父亲，特别不舍。我也没学过，不能灭了他一腔学习热忱。所以，就加紧学了一下，Kodu网上教程少，而且特别初级。所以，我把网上能找到的中英文资料全看了一遍，然后把Kodu软件每一个工具，每一个功能都试一几遍。总结了一些知识和学习技巧。也算初窥门径。至少能挡住小儿的连环三问：“在哪里？怎么弄？为什么”。</p>
-<p>本人程序员，在互联网行业浸淫已久。互联网讲究个啥：分享，免费。程序员弄点东西出来不放github上，就跟程序员不掉头发一样少见。可这个东西放在github，就像男婴拿奶瓶跟叔叔们喝酒，总是感觉怪怪的。所以就弄了一个公众号，把学习到的关于Kodu编程的知识，尽量弄的通俗易懂，放在上面。</p>
-<p>少儿编程的信息，暴风骤雨似的向我们袭来，培训机构也如雨后春笋似的冒出来。家长朋友们又有了新的起跑线焦虑。随之产生了诸多疑问：要不要学少儿编程？几岁学？怎么学?学了有什么用？等等一系列关于少儿编程的问题。有些问题我能解答，有些问题我也不懂。上了学的孩子们肯定都知道“小马过河”的故事，也知道这个故事告诉我们要勇于尝试，所以，让孩子试试吧。</p>
-<p>这系列文章非常适合了解电脑基本操作孩子学习。更适合家长和孩子一起学习。</p>
-<p>此文是个引子，我会一直更新。文章会讲解Kodu的特点、安装、相关配置，Kodu的每个一对象（角色）的使用及特点，Kodu的UI设计及大量实例，并在讲解过程中穿插真实编程中的基本概念。因为是给未接触过编程的孩子写的，所以我会尽量简单，由浅入深。</p>
-<p>学完了咱们的孩子坐着婴儿车，拿着奶瓶坐在院门口晒太阳，也许就会有掉光头发的大叔拿着一本《设计模式》说：“小朋友，我看你骨骼精奇，是万中无一的编程奇才……这本书十块钱卖给你。”一定要告诉孩子，千万别买。咱这儿有免费的公众号可以学。</p>
-<p>学完家长朋友们也再也不会纠结报什么班，花多少钱了。因为咱懂，咱会，咱也是IT圈儿里人了。家长们，让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu</tag>
-        <tag>少儿编程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>让Kodu动起来---Kodu少儿编程第五天</title>
     <url>/2020/05/16/%E8%AE%A9Kodu%E5%8A%A8%E8%B5%B7%E6%9D%A5-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
     <content><![CDATA[<p>我们先学一下Kodu的基本语句：”WHEN””DO”,然后简单了解一下对象工具。最后编一个简单有趣的小程序。<br> <a id="more"></a></p>
@@ -274,6 +261,27 @@
       <tags>
         <tag>WHEN...DO...</tag>
         <tag>Kodu移动</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>零基础教会孩子学会Kodu少儿编程---Kodu少儿编程第零天</title>
+    <url>/2020/05/08/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%9AKodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E9%9B%B6%E5%A4%A9/</url>
+    <content><![CDATA[<p>让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。<br> <a id="more"></a></p>
+<hr>
+<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/0/1.jpg" alt="Kodu"></p>
+<p>随着人工智能时候的到来，编程也越来越重要。我们也越来越离不开科技带给我们的便利。2017年浙江开始把技术(信息技术+通用)纳入选考范围。2018年天津，南京中考开始招收智能控制，机器人制作等以编程为基础的特长生。北京等大城市小学就开了编程课。各种培训班也雨后春笋似的冒出来，学习编程也显得越来越重要。</p>
+<p>疫情期间闲来无事，与三岁小儿一起玩了个叫Kodu的编程小软件，挺有意思。孩子懂事，可也太小，没有耐心。程序编不出来总是泪眼婆娑，暗自啜泣。做为父亲，特别不舍。我也没学过，不能灭了他一腔学习热忱。所以，就加紧学了一下，Kodu网上教程少，而且特别初级。所以，我把网上能找到的中英文资料全看了一遍，然后把Kodu软件每一个工具，每一个功能都试一几遍。总结了一些知识和学习技巧。也算初窥门径。至少能挡住小儿的连环三问：“在哪里？怎么弄？为什么”。</p>
+<p>本人程序员，在互联网行业浸淫已久。互联网讲究个啥：分享，免费。程序员弄点东西出来不放github上，就跟程序员不掉头发一样少见。可这个东西放在github，就像男婴拿奶瓶跟叔叔们喝酒，总是感觉怪怪的。所以就弄了一个公众号，把学习到的关于Kodu编程的知识，尽量弄的通俗易懂，放在上面。</p>
+<p>少儿编程的信息，暴风骤雨似的向我们袭来，培训机构也如雨后春笋似的冒出来。家长朋友们又有了新的起跑线焦虑。随之产生了诸多疑问：要不要学少儿编程？几岁学？怎么学?学了有什么用？等等一系列关于少儿编程的问题。有些问题我能解答，有些问题我也不懂。上了学的孩子们肯定都知道“小马过河”的故事，也知道这个故事告诉我们要勇于尝试，所以，让孩子试试吧。</p>
+<p>这系列文章非常适合了解电脑基本操作孩子学习。更适合家长和孩子一起学习。</p>
+<p>此文是个引子，我会一直更新。文章会讲解Kodu的特点、安装、相关配置，Kodu的每个一对象（角色）的使用及特点，Kodu的UI设计及大量实例，并在讲解过程中穿插真实编程中的基本概念。因为是给未接触过编程的孩子写的，所以我会尽量简单，由浅入深。</p>
+<p>学完了咱们的孩子坐着婴儿车，拿着奶瓶坐在院门口晒太阳，也许就会有掉光头发的大叔拿着一本《设计模式》说：“小朋友，我看你骨骼精奇，是万中无一的编程奇才……这本书十块钱卖给你。”一定要告诉孩子，千万别买。咱这儿有免费的公众号可以学。</p>
+<p>学完家长朋友们也再也不会纠结报什么班，花多少钱了。因为咱懂，咱会，咱也是IT圈儿里人了。家长们，让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。</p>
+<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
+]]></content>
+      <tags>
+        <tag>Kodu</tag>
+        <tag>少儿编程</tag>
       </tags>
   </entry>
 </search>
