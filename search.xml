@@ -1,570 +1,343 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Kodu吃苹果---Kodu少儿编程第六天</title>
-    <url>/2020/05/16/Kodu%E5%90%83%E8%8B%B9%E6%9E%9C-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%85%AD%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>上一天的课Kodu已经能动起来了？今天我们让Kodu吃点东西吧。</p>
-<p>打开第五天的程序，第五天的程序已经能动了，现在给他加吃苹果的功能。</p>
-<a id="more"></a>
-
-<hr>
-<p>第一步：</p>
-<p>选择对象工具，在地面上右键，选择新增物件。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/1.png" alt="Kodu"></p>
-<p>选择苹果，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/2.png" alt="Kodu"></p>
-<p>第二步：</p>
-<p>鼠标放到Kodu上，右键点击。选择编排程序。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/3.png" alt="Kodu"></p>
-<p>第三步：</p>
-<p>在第二行点击WHEN后面的+，选择碰到，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/4.png" alt="Kodu"></p>
-<p>点击碰到后面的+号，再点击物件，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/5.png" alt="Kodu"></p>
-<p>选择苹果，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/6.png" alt="Kodu"></p>
-<p>第四步：</p>
-<p>点击第二行“DO”后面的+号，选择吃。效果如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/7.png" alt="Kodu"></p>
-<p>我们的程序就编好了。</p>
-<p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p>
-<p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了，让Kodu移动，碰到苹果，就把苹果吃掉了。</p>
-<p>我们把鼠标放到苹果上，屏幕上方会出现颜色选择器，它用于改变物件的颜色。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/8.png" alt="Kodu"></p>
-<p>按鼠标键盘箭号键的左或右，可以切换颜色。</p>
-<p>现在我们的苹果已经是绿色的了，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/9.png" alt="Kodu"></p>
-<p>我们学到的知识点：</p>
-<p>1，苹果物件</p>
-<p>2，碰到：当你碰到另一个对象时，根据类型、颜色等状态作出反应</p>
-<p>3，吃：吞噬目标对象，其前提为彼此距离相近</p>
-<p>4，颜色选择器</p>
-<p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第六天”。会把源代码文件的链接和提取码发给您。</p>
-<p>您把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu吃</tag>
-        <tag>Kodu编排程序</tag>
-        <tag>Kodu新增物件</tag>
-        <tag>苹果</tag>
-        <tag>颜色选择器</tag>
-        <tag>Kodu碰到</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Kodu的下载与安装---Kodu少儿编程第二天</title>
-    <url>/2020/05/08/Kodu%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天讲解Kodu的下载与安装<br> <a id="more"></a></p>
-<hr>
-<p>本文介绍Kodu的下载与安装。</p>
-<p>第一步：点击Get Kodu进入下载地址。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/1.jpg" alt="Kodu"></p>
-<p>下载地址：</p>
-<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=10056" target="_blank" rel="noopener">https://www.microsoft.com/en-us/download/details.aspx?id=10056</a></p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/2.png" alt="Kodu"></p>
-<p>点击DownLoad进行下载。</p>
-<p>有两个包可供选择，任选一个进行安装。</p>
-<p>第二步：下载文件双击进行安装。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/3.png" alt="Kodu"></p>
-<p>选择您使用的语言：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/4.png" alt="Kodu"></p>
-<p>接受协议：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/5.png" alt="Kodu"></p>
-<p>选择安装目录：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/6.png" alt="Kodu"></p>
-<p>至此，Kodu程序就安装好了。您就可以打开桌面上Kodu图标进入Kodu的开发界面。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/7.jpg" alt="Kodu"></p>
-<p>Kodu支持的操作系统 ：</p>
-<p>Windows 10, Windows 7, Windows 8, Windows Vista, Windows XP</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu下载</tag>
-        <tag>Kodu安装</tag>
-        <tag>Kodu界面</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>World---kodu少儿编程第四天</title>
-    <url>/2020/05/14/World-kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%9B%9B%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天我们做一个Hello World的小程序，几乎所有程序，所有语言学习的第一个程序都是“Hello World”。</p>
-<a id="more"></a>
-
-<hr>
-<p>第一步：</p>
-<p>点击新世界</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/1.jpg" alt="Kodu"></p>
-<p>第二步：</p>
-<p>选择“对象工具”</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/2.jpg" alt="Kodu"></p>
-<p>第三步：</p>
-<p>右键在地面上新增物件</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/3.jpg" alt="Kodu"></p>
-<p>第四步：</p>
-<p>选择Kodu</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/4.jpg" alt="Kodu"></p>
-<p>第五步：</p>
-<p>鼠标放到Kodu上，右键选择编排程序</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/5.jpg" alt="Kodu"></p>
-<p>点击do后面的+号</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/6.jpg" alt="Kodu"></p>
-<p>选择动作</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/7.jpg" alt="Kodu"></p>
-<p>选择说</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/8.jpg" alt="Kodu"></p>
-<p>在弹出的文本框中写上“Hello World”，并点击储存。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/9.png" alt="Kodu"></p>
-<p>我们第一个程序，就完成了。</p>
-<p>下面我们运行一下这个程序：</p>
-<p>按esc键，退出到地面界面。</p>
-<p>再点击玩游戏键或再按一次esc键。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/10.png" alt="Kodu"></p>
-<p>Kodu会显示“Hello World”，我们第一个Kodu程序就运行起来了。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/11.jpg" alt="Kodu"></p>
-<p>我们学到的知识点：</p>
-<p>1，新建世界</p>
-<p>2，对象工具：对象工具里新建的是物件，又叫角色，也可称为对象。</p>
-<p>3，选择物件（角色， 对象）</p>
-<p>4，编排程序</p>
-<p>5，do语句：Kodu有两个语句，另一个是when。我们下一天的课程来讲when和do的用法。</p>
-<p>6，“说”动作</p>
-<p>7，运行程序：可以按esc运行，也可以按运行按钮运行程序。</p>
-<p>8，世界上第一个程序是Hello World：Hello World 中文意思是“你好,世界”。1978年非常著名的《The C Programming Language》中使用它作为第一个演示程序，所以后来的程序员在学习编程或进行设备调试时延续了这一习惯。</p>
-<p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第四天”。会把源代码文件的链接和提取码发给您。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Hello World</tag>
-        <tag>新建世界</tag>
-        <tag>对象工具</tag>
-        <tag>新增物件</tag>
-        <tag>运行Kodu</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>什么是Kodu---Kodu少儿编程第一天</title>
-    <url>/2020/05/08/%E4%BB%80%E4%B9%88%E6%98%AFKodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<p>Kodu是微软为少年儿童开发的一款可视化编程开发工具。它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。我们今天了解一下Kodu！<br> <a id="more"></a></p>
-<hr>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/1/1.jpg" alt="Kodu"></p>
-<p>Kodu简介：</p>
-<p>Kodu全称Kodu Game Lab，是微软专门为少年儿童开发的一款可视化编程开发工具。Kodu让孩子通过简单的视觉编程语言在电脑上创建3D游戏。</p>
-<p>Kodu可视化游戏编程可能是最能激起儿童的早期编程兴趣的方法了，它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。无论是孩子还是没有编程经验的成年人都可以使用这款软件。</p>
-<p>Kodu支持用鼠标或键盘操作，内置了多款游戏模式的范例，包括冒险地图，以及若干经典游戏。面向对象的 Kodu 可视化编程，使得任何开发者都可通过某对象的“条件和语句”来实现自己的创意。</p>
-<p>Kodu旨在儿童教育，完全开源免费使用。而且Kodu的社群功能汇集了全世界小朋友们上传的世界，每个人都可以上传自己的世界，也可以下载社群上有趣的世界。</p>
-<p>Kodu支持操作系统：</p>
-<p>Kodu在 XP、Vista、Win7、Win8、Win10都能安装。</p>
-<p>软件特色： Kodu拥有多种动作模块。这种编程方式带来的好处就是：即使是一个三四岁的小孩子，他也可以在最短的时间内完成自己的设想，创造出他的世界，表达出他所要表达的思想。工具越简单，越便于掌握，在小学阶段，就越便于学生用程序设计的方式表达他的个人理念。</p>
-<p>Kodu这款编程工具，可以带给学生全新的3D环境设计的体验，所有内容都是立体的（也许不久之后，还能升级到结合VR、AR效果的虚拟现实编程工具）。</p>
-<p>以编写走迷宫程序为例，以往程序设计中，迷宫是以一种平面图形的方式呈现的，而在Kodu中，完全可以通过设置第一视角的方法，模拟出走迷宫的效果，既通过上帝视角看到迷宫的全貌增加了游戏可玩性，同时也便于学生理解走迷宫的左手定律，为后续的走迷宫机器人编程教学，奠定了体验基础。</p>
-<p>在Kodu中，不管多么复杂的游戏，只有一种语句就是WHEN……DO……，简单说就是在什么时间内（情况下）……去做什么，其他所有模块都是可以在里面进行添加，而能添加的项目，都会出现在环形菜单中的。</p>
-<p>很萌、很酷的角色（物件，对象）。而且所有的角色（物件，对象）都已经创建好了，并且可以根据自己的实际需求进行一些颜色、大小、位置、角度等方面的调整，有些角色看上去非常可爱，有些感觉非常酷。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu</tag>
-        <tag>入门</tag>
-        <tag>什么是Kodu</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Kodu程序的菜单---Kodu少儿编程第七天</title>
-    <url>/2020/05/16/Kodu%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%8F%9C%E5%8D%95-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%83%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天我们看一下播放世界，编辑世界，储存我的世界，与社群分享，载入世界，新世界，打印阶层，退出主选单这个菜单的用法。</p>
-<a id="more"></a>
-
-<hr>
-<p>打开第六天的程序，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/1.png" alt="Kodu"></p>
-<p>点击如上图左侧的首页菜单。</p>
-<p>效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/2.png" alt="Kodu"></p>
-<p>播放世界：演示刚才开发的程序。</p>
-<p>编辑世界：编辑刚才开发的程序。</p>
-<p>储存我的世界：保存刚开发的程序。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/3.png" alt="Kodu"></p>
-<p>名称：就是我们开发的这个程序的名称。V00版本号，按其右侧的上下箭头，可以更改版本号。</p>
-<p>说明：可以对程序进行说明和描述。</p>
-<p>储存：储存一份代码到本机的我的世界,点击储存弹出如下警告，储存是覆盖当前程序，累加及储存会把版本号加1，比如：原来是v02，点击之后变成v03。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/4.png" alt="Kodu"></p>
-<p>点选标签：会显示可供选择的标签。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/5.png" alt="Kodu"></p>
-<p>与社群分享：把刚才开发的程序分享到社群，全世界所有的用户都能在社群里找到我们上传的程序，与社群分享要在联网状态。点击效果如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/6.png" alt="Kodu"></p>
-<p>我们的程序就分享到了社群中，下一天的课程我们讲解一下社群的下载功能。</p>
-<p>载入世界：进入本机的我的世界，包含各种程序的列表。</p>
-<p>新世界：新建世界。</p>
-<p>打印阶层Kode：把开发的程序代码打印出来，打印的前提要安装虚拟打印机(如下截图是windows系统默认的打印机，也可以安装其它打印机)。点击效果如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/7.png" alt="Kodu"></p>
-<p>点击确定，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/8.png" alt="Kodu"></p>
-<p>选择目录进行保存。</p>
-<p>用XPS查看器打开，就看到我们编写的代码了。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/9.png" alt="Kodu公众号"></p>
-<p>退出主选单：退出此程序，进入Kodu的首页面。</p>
-]]></content>
-      <tags>
-        <tag>Kodu菜单</tag>
-        <tag>播放世界</tag>
-        <tag>编辑世界</tag>
-        <tag>储存我的世界</tag>
-        <tag>Kodu社群</tag>
-        <tag>载入世界</tag>
-        <tag>新世界</tag>
-        <tag>打印阶层Kode</tag>
-        <tag>退出主选单</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>初识Kodu开发软件---Kodu少儿编程第三天</title>
-    <url>/2020/05/09/%E5%88%9D%E8%AF%86Kodu%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
-    <content><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>Kodu开发软件是一个很简单易操作的软件，我们来了解一下他的基本功能。</p>
-<a id="more"></a>
-
-<hr>
-<p>打开Kodu程序，进入软件界面。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/1.jpg" alt="Kodu"></p>
-<p>新闻：</p>
-<p>Kodu的一些新闻。</p>
-<p>Sign In:</p>
-<p>Kodu的用户系统。Creator是用户名，Pin可以理解为密码。不用注册，直接输入用户名和密码就能进入，这个账户就是你的专属账户。</p>
-<p>Keep me signed in when Kodu exits 如果选中，下次登录的时候还进入此账户。</p>
-<p>如果不填写用户名和密码，则用系统默认的Guest用户进入，开始学习时不用填写用户名和密码，直接进入即可。进入后如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/2.jpg" alt="Kodu"></p>
-<p>新闻：</p>
-<p>是Kodu官方的一些新闻，组织活动，更新日志等。点击新闻下面的更多，可以看到更多的新闻。可以看到，现在的新闻是Meet and Code的活动。下面是Kodu发布的日志。最新版的2019年6月12日发布的1.5.47.0。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/3.png" alt="Kodu"></p>
-<p>继续：</p>
-<p>打开上次运行过的程序。</p>
-<p>新世界：</p>
-<p>新建程序。</p>
-<p>载入世界：</p>
-<p>进入本机的程序。</p>
-<p>社群：</p>
-<p>Kodu社区的程序，世界各地所有Kodu使用者都可以把自己开发的Kodu程序上传发布到社区。</p>
-<p>选项：</p>
-<p>一些选项配置。</p>
-<p>说明：</p>
-<p>Kodu程序的介绍及使用方法。</p>
-<p>退出KODU：</p>
-<p>退出了KODU开发软件。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu软件</tag>
-        <tag>注册登录</tag>
-        <tag>Kodu新闻</tag>
-        <tag>Kodu介绍</tag>
-        <tag>Kodu使用</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>会说话的Kodu---Kodu少儿编程第十二天</title>
-    <url>/2020/05/23/%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84Kodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%A4%A9/</url>
-    <content><![CDATA[<p>上一天的课程，我们学了定时器，输。今天学习“说”。</p>
-<a id="more"></a>
-
-<hr>
-<p>打开第十一天的程序。</p>
-<p>第一步：</p>
-<p>在Kodu上右键点击，选择编排程序，在第六行加一个5秒定时器。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/1.png" alt="Kodu"></p>
-<p>第二步：</p>
-<p>点击第六行DO后面的+号，选择动作，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/2.png" alt="Kodu"></p>
-<p>第三步：</p>
-<p>在动作弹出的选择框中选择“说”</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/3.png" alt="Kodu"></p>
-<p>第四步：</p>
-<p>在弹出文本框中输入“快点啊，来不及啦，要输啦！”，然后点击保存。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/4.png" alt="Kodu"></p>
-<p>五秒之后，会显示Kodu说的话，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/5.png" alt="Kodu"></p>
-<p>第五步：</p>
-<p>点击说后面的+号，选择颜色，效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/6.png" alt="Kodu"></p>
-<p>第六步：</p>
-<p>选择红色，您也可以选择您喜欢的任意可选颜色。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/7.png" alt="Kodu"></p>
-<p>我们的程序就编好了，运行看看效果，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/8.png" alt="Kodu"></p>
-<p>我们的文本框变成红色的了。</p>
-<p>我们学到的知识点：</p>
-<p>1，说</p>
-<p>2，颜色</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu说</tag>
-        <tag>Kodu颜色</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>社群的使用---Kodu少儿编程第八天</title>
-    <url>/2020/05/16/%E7%A4%BE%E7%BE%A4%E7%9A%84%E4%BD%BF%E7%94%A8-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%85%AB%E5%A4%A9/</url>
-    <content><![CDATA[<p>社群是Kodu的一个交流平台，用户可以把自己开发的程序上传，也可以下载别人开发的程序。</p>
-<a id="more"></a>
-
-<hr>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/1.png" alt="Kodu"></p>
-<p>重点说明的是：社群功能需要联网。社群界面如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/2.png" alt="Kodu"></p>
-<p>我的世界：我上传的程序和我下载的程序</p>
-<p>课程：如果上传的时候选择课程标签，会出现在这里</p>
-<p>范例：如果上传的时候没选择课程标签，会出现在这里</p>
-<p>全部：包括上面三个</p>
-<p>搜索框：在社群里搜索程序，是按作者名称、标题和标签进行搜索</p>
-<p>排序：把搜索出来的结果进行排序，可以按日期，创造者，标题，排名分别排序，效果如下图:</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/3.png" alt="Kodu"></p>
-<p>我上传了一个程序，可以搜索“社群测试2020”，效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/4.png" alt="Kodu"></p>
-<p>“社群测试2020”是名称，”v01”是版本号，2020/4/9 15：02是上传日期，“多多”是上传用户，向下的箭号右边的数字是下载次数，“动作，冒险”是标签，“这是说明”是说明。</p>
-<p>鼠标左键单击这个程序，效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/5.png" alt="Kodu"></p>
-<p>点击下载就可以把这个程序下载到本地</p>
-<p>点击报告，效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/6.png" alt="Kodu"></p>
-<p>你要回报此阶层为有冒犯意味的阶层吗？他在英文版里是“do you want to report this level as offensive”，翻译为“你是否举报违规”更合理，可见老外的翻译水平好差。</p>
-<p>点击下载，右上角出现小箭头的时候，就可以开始玩了。因为社群的服务器在国外，经常有下载不成功的情况，这时需要重新下载，可见老外的服务器也不好。如下图:</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/7.png" alt="Kodu"></p>
-<p>社群上的所有程序都是开源的，我们不仅可以下载，还可以任意编辑和重新上传。社群里有很多非常好的程序，我们可以查看他的代码，社群里的程序是我们非常好的学习资源。</p>
-<p>我们学到的知识点：</p>
-<p>1，社群程序的搜索与下载</p>
-<p>2，老外的翻译水平好差，服务器也差</p>
-<p>3，社群里的程序是非常好的学习资源</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>社群</tag>
-        <tag>分享到社群</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>计分---Kodu少儿编程第十天</title>
-    <url>/2020/05/16/%E8%AE%A1%E5%88%86-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%8D%81%E5%A4%A9/</url>
-    <content><![CDATA[<p>今天学习Kodu的分数、计分和赢。</p>
-<a id="more"></a>
-
-<hr>
-<p>打开第九天的程序</p>
-<p>第一步：</p>
-<p>再加四个绿色苹果。方法如下：选中绿色苹果，右键点击，选择复制。效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/1.png" alt="Kodu"></p>
-<p>然后在地面上任意处右键单击，选择贴上（苹果1）。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/2.png" alt="Kodu"></p>
-<p>贴上（苹果1）功能重复四次，现在地面上有五个绿色苹果了，效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/3.png" alt="Kodu"></p>
-<p>第二步：</p>
-<p>鼠标右键单击Kodu，选择编排程序。在第三行添加如下程序，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/4.png" alt="Kodu"></p>
-<p>第三步：</p>
-<p>点击第三行DO后面的+号，选择游戏。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/5.png" alt="Kodu"></p>
-<p>第四步：</p>
-<p>选择分数，效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/6.png" alt="Kodu"></p>
-<p>第五步：</p>
-<p>点击分数后面的+号，选择绿色。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/7.png" alt="Kodu"></p>
-<p>第七步：</p>
-<p>选择绿色后面的+号，选择点，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/8.png" alt="Kodu"></p>
-<p>第八步：</p>
-<p>选择1点，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/9.png" alt="Kodu"></p>
-<p>第九步：</p>
-<p>点击第四行WHEN后面的+号，选择计分，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/10.png" alt="Kodu"></p>
-<p>第十步：</p>
-<p>选择计分后面的+号，选择绿色，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/11.png" alt="Kodu"></p>
-<p>第十一步：</p>
-<p>点击绿色后面的+号，选择比较，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/12.png" alt="Kodu"></p>
-<p>第十二步：</p>
-<p>选择相等</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/13.png" alt="Kodu"></p>
-<p>第十三步：</p>
-<p>点击=号后面的+号，选择点，选择5点。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/14.png" alt="Kodu"></p>
-<p>第十四步：</p>
-<p>点击第四行DO后面的+号，选择游戏，再选择赢，如图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/15.png" alt="Kodu"></p>
-<p>最后效果如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/16.png" alt="Kodu"></p>
-<p>运行程序，用箭号键使Kodu移动，碰到绿色苹果，就会把苹果吃掉，每吃一个右上角分数就会加1。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/17.png" alt="Kodu"></p>
-<p>等吃到第5个，即得5分。显示赢！</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/18.png" alt="Kodu"></p>
-<p>我们学到的知识点：</p>
-<p>1，复制，粘贴</p>
-<p>2，分数：增加点数到分数中</p>
-<p>3，分数比较</p>
-<p>4，赢</p>
-<p>此程序的源代码文件下载方法：关注公众号:Kodu。将此文章分享至朋友圈，然后在公众号回复“第十天”。会把源代码文件的链接和提取码发给您。</p>
-<p>把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu计分</tag>
-        <tag>复制</tag>
-        <tag>粘贴</tag>
-        <tag>分数比较</tag>
-        <tag>赢</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有赢有输---Kodu少儿编程第十一天</title>
-    <url>/2020/05/23/%E6%9C%89%E8%B5%A2%E6%9C%89%E8%BE%93-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%8D%81%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<p>上一天的课程，我们学了计分，并让Kodu赢了游戏。有赢就要有输，光赢也没意思。我们今天加个输的代码，再学习一下定时器。</p>
-<a id="more"></a>
-
-<hr>
-<p>打开第十天的程序。</p>
-<p>第一步：</p>
-<p>右键单击Kodu，选择编排程序，然后点击第五行WHEN后面的+号，选择定时器，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/1.png" alt="Kodu"></p>
-<p>第二步：</p>
-<p>鼠标点击定时器后面的+号，选择10秒，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/2.png" alt="Kodu"></p>
-<p>第三步：</p>
-<p>鼠标点击第五行DO后面的+号，点击游戏，选择结束，效果如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/3.png" alt="Kodu"></p>
-<p>我们最后的程序如下：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/4.png" alt="Kodu"></p>
-<p>运行程序，可以看到：10秒之间吃掉5个苹果赢，否则提示GAME OVER，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/5.png" alt="Kodu"></p>
-<p>经过几天的学习，大家肯定发现一个问题，把鼠标放到代码块上一会儿，会出现提示，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/6.png" alt="Kodu"></p>
-<p>每一个代码块都有类似的提示，这是这个软件非常友好的地方，也是非常适合低龄儿童学习的原因。每个代码块都有提示，告诉我们这个代码块的用法和意义。当然，前面说过，老外的翻译不好，我们以后对于难点会详细讲解。</p>
-<p>我们学到的知识点：</p>
-<p>1，结束</p>
-<p>2，定时器：对经过的秒数进行响应</p>
-<p>3，代码块提示的用法与作用</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu输</tag>
-        <tag>Kodu定时器</tag>
-        <tag>代码提示</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>让Kodu动起来---Kodu少儿编程第五天</title>
-    <url>/2020/05/16/%E8%AE%A9Kodu%E5%8A%A8%E8%B5%B7%E6%9D%A5-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
-    <content><![CDATA[<p>我们先学一下Kodu的基本语句：”WHEN””DO”,然后简单了解一下对象工具。最后编一个简单有趣的小程序。<br> <a id="more"></a></p>
-<hr>
-<p>编程之前我们先介绍两个概念：</p>
-<p>1，WHEN…DO…</p>
-<p>Kodu程序的语句结构很简单，只有一种格式：WHEN…DO…写程序时，只需在WHEN后面添加事件，也就是触发程序运行的条件，然后在DO后面添加要执行的动作即可。</p>
-<p>意思就是WHEN(满足某种条件)DO(执行某种操作)。</p>
-<p>2，对象</p>
-<p>对象工具可以新建物件（英文名称是object，个人觉得翻译成对象更为合理，对象在各种编程语言里都是一个非常重要的概念），对象工具可以创建物件（对象），只有对象工具创建的物件（对象）才可以进行编程。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/1.png" alt="Kodu"></p>
-<p>第一步：</p>
-<p>选择对象工具</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/2.png" alt="Kodu"></p>
-<p>第二步：</p>
-<p>地面上右键单击选择新增物件</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/3.png" alt="Kodu"></p>
-<p>第三步：</p>
-<p>选择kodu</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/4.png" alt="Kodu"></p>
-<p>第四步：</p>
-<p>鼠标放到Kodu上会显示如下菜单栏，选择编排程序。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/5.png" alt="Kodu"></p>
-<p>我们就能看到when和do两个关键字了，我们就在这里编程</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/6.png" alt="Kodu"></p>
-<p>第五步：</p>
-<p>点击when右边的+号，选择键盘</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/7.png" alt="Kodu"></p>
-<p>第六步：</p>
-<p>选择键盘后面的+号，选择箭号键。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/8.png" alt="Kodu"></p>
-<p>第七步：</p>
-<p>选择do后面的+号，选择移动。</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/9.png" alt="Kodu"></p>
-<p>我们的程序就编好了。</p>
-<p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p>
-<p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了。</p>
-<p>我们学到的知识点：</p>
-<p>1，WHEN…DO…的用法</p>
-<p>2，对象工具和新建物件</p>
-<p>3，键盘和箭号键</p>
-<p>4，移动：不同角色有不同的移动能力，移动能力也可以在属性里配置</p>
-<p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第五天”。会把源代码文件的链接和提取码发给您。</p>
-<p>您把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>WHEN...DO...</tag>
-        <tag>Kodu移动</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>零基础教会孩子学会Kodu少儿编程---Kodu少儿编程第零天</title>
-    <url>/2020/05/08/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%9AKodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E9%9B%B6%E5%A4%A9/</url>
-    <content><![CDATA[<p>让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。<br> <a id="more"></a></p>
-<hr>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/0/1.jpg" alt="Kodu"></p>
-<p>随着人工智能时候的到来，编程也越来越重要。我们也越来越离不开科技带给我们的便利。2017年浙江开始把技术(信息技术+通用)纳入选考范围。2018年天津，南京中考开始招收智能控制，机器人制作等以编程为基础的特长生。北京等大城市小学就开了编程课。各种培训班也雨后春笋似的冒出来，学习编程也显得越来越重要。</p>
-<p>疫情期间闲来无事，与三岁小儿一起玩了个叫Kodu的编程小软件，挺有意思。孩子懂事，可也太小，没有耐心。程序编不出来总是泪眼婆娑，暗自啜泣。做为父亲，特别不舍。我也没学过，不能灭了他一腔学习热忱。所以，就加紧学了一下，Kodu网上教程少，而且特别初级。所以，我把网上能找到的中英文资料全看了一遍，然后把Kodu软件每一个工具，每一个功能都试一几遍。总结了一些知识和学习技巧。也算初窥门径。至少能挡住小儿的连环三问：“在哪里？怎么弄？为什么”。</p>
-<p>本人程序员，在互联网行业浸淫已久。互联网讲究个啥：分享，免费。程序员弄点东西出来不放github上，就跟程序员不掉头发一样少见。可这个东西放在github，就像男婴拿奶瓶跟叔叔们喝酒，总是感觉怪怪的。所以就弄了一个公众号，把学习到的关于Kodu编程的知识，尽量弄的通俗易懂，放在上面。</p>
-<p>少儿编程的信息，暴风骤雨似的向我们袭来，培训机构也如雨后春笋似的冒出来。家长朋友们又有了新的起跑线焦虑。随之产生了诸多疑问：要不要学少儿编程？几岁学？怎么学?学了有什么用？等等一系列关于少儿编程的问题。有些问题我能解答，有些问题我也不懂。上了学的孩子们肯定都知道“小马过河”的故事，也知道这个故事告诉我们要勇于尝试，所以，让孩子试试吧。</p>
-<p>这系列文章非常适合了解电脑基本操作孩子学习。更适合家长和孩子一起学习。</p>
-<p>此文是个引子，我会一直更新。文章会讲解Kodu的特点、安装、相关配置，Kodu的每个一对象（角色）的使用及特点，Kodu的UI设计及大量实例，并在讲解过程中穿插真实编程中的基本概念。因为是给未接触过编程的孩子写的，所以我会尽量简单，由浅入深。</p>
-<p>学完了咱们的孩子坐着婴儿车，拿着奶瓶坐在院门口晒太阳，也许就会有掉光头发的大叔拿着一本《设计模式》说：“小朋友，我看你骨骼精奇，是万中无一的编程奇才……这本书十块钱卖给你。”一定要告诉孩子，千万别买。咱这儿有免费的公众号可以学。</p>
-<p>学完家长朋友们也再也不会纠结报什么班，花多少钱了。因为咱懂，咱会，咱也是IT圈儿里人了。家长们，让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>Kodu</tag>
-        <tag>少儿编程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>颜色选择器---Kodu少儿编程第九天</title>
-    <url>/2020/05/16/%E9%A2%9C%E8%89%B2%E9%80%89%E6%8B%A9%E5%99%A8-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B9%9D%E5%A4%A9/</url>
-    <content><![CDATA[<p>第六天的课程我们用颜色选择器把红色苹果变成绿色，其实颜色选择器还有更重要的作用。</p>
-<p>我们看一下颜色选择器的作用。</p>
-<a id="more"></a>
-
-<hr>
-<p>打开第六天的程序。</p>
-<p>第一步：</p>
-<p>在第六天程序基础上新加一个红色苹果。如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/1.png" alt="Kodu"></p>
-<p>第二步：</p>
-<p>Kodu角色上右键单击，选择编排程序，然后点击第二行苹果后面的+号，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/2.png" alt="Kodu"></p>
-<p>第三步：</p>
-<p>点击颜色</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/3.png" alt="Kodu"></p>
-<p>第四步：</p>
-<p>选择绿色，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/4.png" alt="Kodu"></p>
-<p>最后效果，如下图：</p>
-<p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/5.png" alt="Kodu"></p>
-<p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p>
-<p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了，让Kodu移动，碰到绿色苹果，就把苹果吃掉了，碰到红色苹果吃不掉。</p>
-<p>颜色选择器不仅UI中使用，更是为提供了角色的标识。</p>
-<p>我们介绍编程中两个重要的概念：</p>
-<p>UI：对软件的人机交互、操作逻辑、界面美观的整体设计。简单来说，看到的东西就是UI，在我们的Kodu中地面、颜色、山丘、山谷、水工具属于UI，他们用于用户界面的显示，并不能对他们进行编程。前文讲到过，对象工具里新建角色是对象，可以进行编程。</p>
-<p>标识：识别，表明特征的记号或事物。颜色是一个记号，告诉程序正在编程的是哪个对象（我们程序中吃的是绿色的苹果对象）。我们的Kodu还有一个更重要的标识，以后我们再讲。</p>
-<p>我们学到的知识点：</p>
-<p>1，颜色选择器的作用</p>
-<p>2，UI</p>
-<p>3，标识</p>
-<p>此程序的源代码文件下载方法：关注公众号Kodu。将此文章分享至朋友圈，然后在公众号回复“第九天”。会把源代码文件的链接和提取码发给您。</p>
-<p>把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p>
-<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>
-]]></content>
-      <tags>
-        <tag>苹果</tag>
-        <tag>颜色选择器</tag>
-        <tag>Kodu中的UI</tag>
-        <tag>标识</tag>
-      </tags>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Kodu公众号</title>
+      <link href="/2020/06/17/Kodu%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+      <url>/2020/06/17/Kodu%E5%85%AC%E4%BC%97%E5%8F%B7/</url>
+      
+        <content type="html"><![CDATA[<p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p><a id="more"></a>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>会说话的Kodu---Kodu少儿编程第十二天</title>
+      <link href="/2020/05/23/%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84Kodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%A4%A9/"/>
+      <url>/2020/05/23/%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84Kodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>上一天的课程，我们学了定时器，输。今天学习“说”。</p><a id="more"></a><hr><p>打开第十一天的程序。</p><p>第一步：</p><p>在Kodu上右键点击，选择编排程序，在第六行加一个5秒定时器。如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/1.png" alt="Kodu"></p><p>第二步：</p><p>点击第六行DO后面的+号，选择动作，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/2.png" alt="Kodu"></p><p>第三步：</p><p>在动作弹出的选择框中选择“说”</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/3.png" alt="Kodu"></p><p>第四步：</p><p>在弹出文本框中输入“快点啊，来不及啦，要输啦！”，然后点击保存。如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/4.png" alt="Kodu"></p><p>五秒之后，会显示Kodu说的话，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/5.png" alt="Kodu"></p><p>第五步：</p><p>点击说后面的+号，选择颜色，效果如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/6.png" alt="Kodu"></p><p>第六步：</p><p>选择红色，您也可以选择您喜欢的任意可选颜色。如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/7.png" alt="Kodu"></p><p>我们的程序就编好了，运行看看效果，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/12/8.png" alt="Kodu"></p><p>我们的文本框变成红色的了。</p><p>我们学到的知识点：</p><p>1，说</p><p>2，颜色</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Kodu说 </tag>
+            
+            <tag> Kodu颜色 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>有赢有输---Kodu少儿编程第十一天</title>
+      <link href="/2020/05/23/%E6%9C%89%E8%B5%A2%E6%9C%89%E8%BE%93-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%8D%81%E4%B8%80%E5%A4%A9/"/>
+      <url>/2020/05/23/%E6%9C%89%E8%B5%A2%E6%9C%89%E8%BE%93-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%8D%81%E4%B8%80%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>上一天的课程，我们学了计分，并让Kodu赢了游戏。有赢就要有输，光赢也没意思。我们今天加个输的代码，再学习一下定时器。</p><a id="more"></a><hr><p>打开第十天的程序。</p><p>第一步：</p><p>右键单击Kodu，选择编排程序，然后点击第五行WHEN后面的+号，选择定时器，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/1.png" alt="Kodu"></p><p>第二步：</p><p>鼠标点击定时器后面的+号，选择10秒，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/2.png" alt="Kodu"></p><p>第三步：</p><p>鼠标点击第五行DO后面的+号，点击游戏，选择结束，效果如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/3.png" alt="Kodu"></p><p>我们最后的程序如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/4.png" alt="Kodu"></p><p>运行程序，可以看到：10秒之间吃掉5个苹果赢，否则提示GAME OVER，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/5.png" alt="Kodu"></p><p>经过几天的学习，大家肯定发现一个问题，把鼠标放到代码块上一会儿，会出现提示，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/11/6.png" alt="Kodu"></p><p>每一个代码块都有类似的提示，这是这个软件非常友好的地方，也是非常适合低龄儿童学习的原因。每个代码块都有提示，告诉我们这个代码块的用法和意义。当然，前面说过，老外的翻译不好，我们以后对于难点会详细讲解。</p><p>我们学到的知识点：</p><p>1，结束</p><p>2，定时器：对经过的秒数进行响应</p><p>3，代码块提示的用法与作用</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Kodu输 </tag>
+            
+            <tag> Kodu定时器 </tag>
+            
+            <tag> 代码提示 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计分---Kodu少儿编程第十天</title>
+      <link href="/2020/05/16/%E8%AE%A1%E5%88%86-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%8D%81%E5%A4%A9/"/>
+      <url>/2020/05/16/%E8%AE%A1%E5%88%86-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%8D%81%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>今天学习Kodu的分数、计分和赢。</p><a id="more"></a><hr><p>打开第九天的程序</p><p>第一步：</p><p>再加四个绿色苹果。方法如下：选中绿色苹果，右键点击，选择复制。效果如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/1.png" alt="Kodu"></p><p>然后在地面上任意处右键单击，选择贴上（苹果1）。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/2.png" alt="Kodu"></p><p>贴上（苹果1）功能重复四次，现在地面上有五个绿色苹果了，效果如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/3.png" alt="Kodu"></p><p>第二步：</p><p>鼠标右键单击Kodu，选择编排程序。在第三行添加如下程序，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/4.png" alt="Kodu"></p><p>第三步：</p><p>点击第三行DO后面的+号，选择游戏。如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/5.png" alt="Kodu"></p><p>第四步：</p><p>选择分数，效果如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/6.png" alt="Kodu"></p><p>第五步：</p><p>点击分数后面的+号，选择绿色。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/7.png" alt="Kodu"></p><p>第七步：</p><p>选择绿色后面的+号，选择点，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/8.png" alt="Kodu"></p><p>第八步：</p><p>选择1点，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/9.png" alt="Kodu"></p><p>第九步：</p><p>点击第四行WHEN后面的+号，选择计分，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/10.png" alt="Kodu"></p><p>第十步：</p><p>选择计分后面的+号，选择绿色，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/11.png" alt="Kodu"></p><p>第十一步：</p><p>点击绿色后面的+号，选择比较，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/12.png" alt="Kodu"></p><p>第十二步：</p><p>选择相等</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/13.png" alt="Kodu"></p><p>第十三步：</p><p>点击=号后面的+号，选择点，选择5点。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/14.png" alt="Kodu"></p><p>第十四步：</p><p>点击第四行DO后面的+号，选择游戏，再选择赢，如图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/15.png" alt="Kodu"></p><p>最后效果如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/16.png" alt="Kodu"></p><p>运行程序，用箭号键使Kodu移动，碰到绿色苹果，就会把苹果吃掉，每吃一个右上角分数就会加1。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/17.png" alt="Kodu"></p><p>等吃到第5个，即得5分。显示赢！</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/10/18.png" alt="Kodu"></p><p>我们学到的知识点：</p><p>1，复制，粘贴</p><p>2，分数：增加点数到分数中</p><p>3，分数比较</p><p>4，赢</p><p>此程序的源代码文件下载方法：关注公众号:Kodu。将此文章分享至朋友圈，然后在公众号回复“第十天”。会把源代码文件的链接和提取码发给您。</p><p>把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Kodu计分 </tag>
+            
+            <tag> 复制 </tag>
+            
+            <tag> 粘贴 </tag>
+            
+            <tag> 分数比较 </tag>
+            
+            <tag> 赢 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>颜色选择器---Kodu少儿编程第九天</title>
+      <link href="/2020/05/16/%E9%A2%9C%E8%89%B2%E9%80%89%E6%8B%A9%E5%99%A8-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B9%9D%E5%A4%A9/"/>
+      <url>/2020/05/16/%E9%A2%9C%E8%89%B2%E9%80%89%E6%8B%A9%E5%99%A8-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B9%9D%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>第六天的课程我们用颜色选择器把红色苹果变成绿色，其实颜色选择器还有更重要的作用。</p><p>我们看一下颜色选择器的作用。</p><a id="more"></a><hr><p>打开第六天的程序。</p><p>第一步：</p><p>在第六天程序基础上新加一个红色苹果。如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/1.png" alt="Kodu"></p><p>第二步：</p><p>Kodu角色上右键单击，选择编排程序，然后点击第二行苹果后面的+号，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/2.png" alt="Kodu"></p><p>第三步：</p><p>点击颜色</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/3.png" alt="Kodu"></p><p>第四步：</p><p>选择绿色，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/4.png" alt="Kodu"></p><p>最后效果，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/9/5.png" alt="Kodu"></p><p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p><p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了，让Kodu移动，碰到绿色苹果，就把苹果吃掉了，碰到红色苹果吃不掉。</p><p>颜色选择器不仅UI中使用，更是为提供了角色的标识。</p><p>我们介绍编程中两个重要的概念：</p><p>UI：对软件的人机交互、操作逻辑、界面美观的整体设计。简单来说，看到的东西就是UI，在我们的Kodu中地面、颜色、山丘、山谷、水工具属于UI，他们用于用户界面的显示，并不能对他们进行编程。前文讲到过，对象工具里新建角色是对象，可以进行编程。</p><p>标识：识别，表明特征的记号或事物。颜色是一个记号，告诉程序正在编程的是哪个对象（我们程序中吃的是绿色的苹果对象）。我们的Kodu还有一个更重要的标识，以后我们再讲。</p><p>我们学到的知识点：</p><p>1，颜色选择器的作用</p><p>2，UI</p><p>3，标识</p><p>此程序的源代码文件下载方法：关注公众号Kodu。将此文章分享至朋友圈，然后在公众号回复“第九天”。会把源代码文件的链接和提取码发给您。</p><p>把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 苹果 </tag>
+            
+            <tag> 颜色选择器 </tag>
+            
+            <tag> Kodu中的UI </tag>
+            
+            <tag> 标识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>社群的使用---Kodu少儿编程第八天</title>
+      <link href="/2020/05/16/%E7%A4%BE%E7%BE%A4%E7%9A%84%E4%BD%BF%E7%94%A8-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%85%AB%E5%A4%A9/"/>
+      <url>/2020/05/16/%E7%A4%BE%E7%BE%A4%E7%9A%84%E4%BD%BF%E7%94%A8-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%85%AB%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>社群是Kodu的一个交流平台，用户可以把自己开发的程序上传，也可以下载别人开发的程序。</p><a id="more"></a><hr><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/1.png" alt="Kodu"></p><p>重点说明的是：社群功能需要联网。社群界面如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/2.png" alt="Kodu"></p><p>我的世界：我上传的程序和我下载的程序</p><p>课程：如果上传的时候选择课程标签，会出现在这里</p><p>范例：如果上传的时候没选择课程标签，会出现在这里</p><p>全部：包括上面三个</p><p>搜索框：在社群里搜索程序，是按作者名称、标题和标签进行搜索</p><p>排序：把搜索出来的结果进行排序，可以按日期，创造者，标题，排名分别排序，效果如下图:</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/3.png" alt="Kodu"></p><p>我上传了一个程序，可以搜索“社群测试2020”，效果如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/4.png" alt="Kodu"></p><p>“社群测试2020”是名称，”v01”是版本号，2020/4/9 15：02是上传日期，“多多”是上传用户，向下的箭号右边的数字是下载次数，“动作，冒险”是标签，“这是说明”是说明。</p><p>鼠标左键单击这个程序，效果如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/5.png" alt="Kodu"></p><p>点击下载就可以把这个程序下载到本地</p><p>点击报告，效果如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/6.png" alt="Kodu"></p><p>你要回报此阶层为有冒犯意味的阶层吗？他在英文版里是“do you want to report this level as offensive”，翻译为“你是否举报违规”更合理，可见老外的翻译水平好差。</p><p>点击下载，右上角出现小箭头的时候，就可以开始玩了。因为社群的服务器在国外，经常有下载不成功的情况，这时需要重新下载，可见老外的服务器也不好。如下图:</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/8/7.png" alt="Kodu"></p><p>社群上的所有程序都是开源的，我们不仅可以下载，还可以任意编辑和重新上传。社群里有很多非常好的程序，我们可以查看他的代码，社群里的程序是我们非常好的学习资源。</p><p>我们学到的知识点：</p><p>1，社群程序的搜索与下载</p><p>2，老外的翻译水平好差，服务器也差</p><p>3，社群里的程序是非常好的学习资源</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 社群 </tag>
+            
+            <tag> 分享到社群 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Kodu程序的菜单---Kodu少儿编程第七天</title>
+      <link href="/2020/05/16/Kodu%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%8F%9C%E5%8D%95-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%83%E5%A4%A9/"/>
+      <url>/2020/05/16/Kodu%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%8F%9C%E5%8D%95-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%83%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天我们看一下播放世界，编辑世界，储存我的世界，与社群分享，载入世界，新世界，打印阶层，退出主选单这个菜单的用法。</p><a id="more"></a><hr><p>打开第六天的程序，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/1.png" alt="Kodu"></p><p>点击如上图左侧的首页菜单。</p><p>效果如下：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/2.png" alt="Kodu"></p><p>播放世界：演示刚才开发的程序。</p><p>编辑世界：编辑刚才开发的程序。</p><p>储存我的世界：保存刚开发的程序。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/3.png" alt="Kodu"></p><p>名称：就是我们开发的这个程序的名称。V00版本号，按其右侧的上下箭头，可以更改版本号。</p><p>说明：可以对程序进行说明和描述。</p><p>储存：储存一份代码到本机的我的世界,点击储存弹出如下警告，储存是覆盖当前程序，累加及储存会把版本号加1，比如：原来是v02，点击之后变成v03。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/4.png" alt="Kodu"></p><p>点选标签：会显示可供选择的标签。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/5.png" alt="Kodu"></p><p>与社群分享：把刚才开发的程序分享到社群，全世界所有的用户都能在社群里找到我们上传的程序，与社群分享要在联网状态。点击效果如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/6.png" alt="Kodu"></p><p>我们的程序就分享到了社群中，下一天的课程我们讲解一下社群的下载功能。</p><p>载入世界：进入本机的我的世界，包含各种程序的列表。</p><p>新世界：新建世界。</p><p>打印阶层Kode：把开发的程序代码打印出来，打印的前提要安装虚拟打印机(如下截图是windows系统默认的打印机，也可以安装其它打印机)。点击效果如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/7.png" alt="Kodu"></p><p>点击确定，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/8.png" alt="Kodu"></p><p>选择目录进行保存。</p><p>用XPS查看器打开，就看到我们编写的代码了。如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/7/9.png" alt="Kodu公众号"></p><p>退出主选单：退出此程序，进入Kodu的首页面。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Kodu菜单 </tag>
+            
+            <tag> 播放世界 </tag>
+            
+            <tag> 编辑世界 </tag>
+            
+            <tag> 储存我的世界 </tag>
+            
+            <tag> Kodu社群 </tag>
+            
+            <tag> 载入世界 </tag>
+            
+            <tag> 新世界 </tag>
+            
+            <tag> 打印阶层Kode </tag>
+            
+            <tag> 退出主选单 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Kodu吃苹果---Kodu少儿编程第六天</title>
+      <link href="/2020/05/16/Kodu%E5%90%83%E8%8B%B9%E6%9E%9C-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%85%AD%E5%A4%A9/"/>
+      <url>/2020/05/16/Kodu%E5%90%83%E8%8B%B9%E6%9E%9C-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%85%AD%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>上一天的课Kodu已经能动起来了？今天我们让Kodu吃点东西吧。</p><p>打开第五天的程序，第五天的程序已经能动了，现在给他加吃苹果的功能。</p><a id="more"></a><hr><p>第一步：</p><p>选择对象工具，在地面上右键，选择新增物件。如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/1.png" alt="Kodu"></p><p>选择苹果，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/2.png" alt="Kodu"></p><p>第二步：</p><p>鼠标放到Kodu上，右键点击。选择编排程序。如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/3.png" alt="Kodu"></p><p>第三步：</p><p>在第二行点击WHEN后面的+，选择碰到，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/4.png" alt="Kodu"></p><p>点击碰到后面的+号，再点击物件，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/5.png" alt="Kodu"></p><p>选择苹果，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/6.png" alt="Kodu"></p><p>第四步：</p><p>点击第二行“DO”后面的+号，选择吃。效果如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/7.png" alt="Kodu"></p><p>我们的程序就编好了。</p><p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p><p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了，让Kodu移动，碰到苹果，就把苹果吃掉了。</p><p>我们把鼠标放到苹果上，屏幕上方会出现颜色选择器，它用于改变物件的颜色。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/8.png" alt="Kodu"></p><p>按鼠标键盘箭号键的左或右，可以切换颜色。</p><p>现在我们的苹果已经是绿色的了，如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/6/9.png" alt="Kodu"></p><p>我们学到的知识点：</p><p>1，苹果物件</p><p>2，碰到：当你碰到另一个对象时，根据类型、颜色等状态作出反应</p><p>3，吃：吞噬目标对象，其前提为彼此距离相近</p><p>4，颜色选择器</p><p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第六天”。会把源代码文件的链接和提取码发给您。</p><p>您把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Kodu吃 </tag>
+            
+            <tag> Kodu编排程序 </tag>
+            
+            <tag> Kodu新增物件 </tag>
+            
+            <tag> 苹果 </tag>
+            
+            <tag> 颜色选择器 </tag>
+            
+            <tag> Kodu碰到 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>让Kodu动起来---Kodu少儿编程第五天</title>
+      <link href="/2020/05/16/%E8%AE%A9Kodu%E5%8A%A8%E8%B5%B7%E6%9D%A5-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%94%E5%A4%A9/"/>
+      <url>/2020/05/16/%E8%AE%A9Kodu%E5%8A%A8%E8%B5%B7%E6%9D%A5-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>我们先学一下Kodu的基本语句：”WHEN””DO”,然后简单了解一下对象工具。最后编一个简单有趣的小程序。<br> <a id="more"></a></p><hr><p>编程之前我们先介绍两个概念：</p><p>1，WHEN…DO…</p><p>Kodu程序的语句结构很简单，只有一种格式：WHEN…DO…写程序时，只需在WHEN后面添加事件，也就是触发程序运行的条件，然后在DO后面添加要执行的动作即可。</p><p>意思就是WHEN(满足某种条件)DO(执行某种操作)。</p><p>2，对象</p><p>对象工具可以新建物件（英文名称是object，个人觉得翻译成对象更为合理，对象在各种编程语言里都是一个非常重要的概念），对象工具可以创建物件（对象），只有对象工具创建的物件（对象）才可以进行编程。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/1.png" alt="Kodu"></p><p>第一步：</p><p>选择对象工具</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/2.png" alt="Kodu"></p><p>第二步：</p><p>地面上右键单击选择新增物件</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/3.png" alt="Kodu"></p><p>第三步：</p><p>选择kodu</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/4.png" alt="Kodu"></p><p>第四步：</p><p>鼠标放到Kodu上会显示如下菜单栏，选择编排程序。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/5.png" alt="Kodu"></p><p>我们就能看到when和do两个关键字了，我们就在这里编程</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/6.png" alt="Kodu"></p><p>第五步：</p><p>点击when右边的+号，选择键盘</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/7.png" alt="Kodu"></p><p>第六步：</p><p>选择键盘后面的+号，选择箭号键。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/8.png" alt="Kodu"></p><p>第七步：</p><p>选择do后面的+号，选择移动。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/5/9.png" alt="Kodu"></p><p>我们的程序就编好了。</p><p>然后按esc退出编程界面，点击玩游戏键或再按一次esc键程序就是运行状态了。</p><p>我们按键盘上的箭号键（就是我们常说的上下左右键），Kodu就能在地面上移动了。</p><p>我们学到的知识点：</p><p>1，WHEN…DO…的用法</p><p>2，对象工具和新建物件</p><p>3，键盘和箭号键</p><p>4，移动：不同角色有不同的移动能力，移动能力也可以在属性里配置</p><p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第五天”。会把源代码文件的链接和提取码发给您。</p><p>您把文件下载后，在已经安装Kodu软件的前提下直接双击就能打开此程序了。</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> WHEN...DO... </tag>
+            
+            <tag> Kodu移动 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>World---kodu少儿编程第四天</title>
+      <link href="/2020/05/14/World-kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%9B%9B%E5%A4%A9/"/>
+      <url>/2020/05/14/World-kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E5%9B%9B%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天我们做一个Hello World的小程序，几乎所有程序，所有语言学习的第一个程序都是“Hello World”。</p><a id="more"></a><hr><p>第一步：</p><p>点击新世界</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/1.jpg" alt="Kodu"></p><p>第二步：</p><p>选择“对象工具”</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/2.jpg" alt="Kodu"></p><p>第三步：</p><p>右键在地面上新增物件</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/3.jpg" alt="Kodu"></p><p>第四步：</p><p>选择Kodu</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/4.jpg" alt="Kodu"></p><p>第五步：</p><p>鼠标放到Kodu上，右键选择编排程序</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/5.jpg" alt="Kodu"></p><p>点击do后面的+号</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/6.jpg" alt="Kodu"></p><p>选择动作</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/7.jpg" alt="Kodu"></p><p>选择说</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/8.jpg" alt="Kodu"></p><p>在弹出的文本框中写上“Hello World”，并点击储存。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/9.png" alt="Kodu"></p><p>我们第一个程序，就完成了。</p><p>下面我们运行一下这个程序：</p><p>按esc键，退出到地面界面。</p><p>再点击玩游戏键或再按一次esc键。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/10.png" alt="Kodu"></p><p>Kodu会显示“Hello World”，我们第一个Kodu程序就运行起来了。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/4/11.jpg" alt="Kodu"></p><p>我们学到的知识点：</p><p>1，新建世界</p><p>2，对象工具：对象工具里新建的是物件，又叫角色，也可称为对象。</p><p>3，选择物件（角色， 对象）</p><p>4，编排程序</p><p>5，do语句：Kodu有两个语句，另一个是when。我们下一天的课程来讲when和do的用法。</p><p>6，“说”动作</p><p>7，运行程序：可以按esc运行，也可以按运行按钮运行程序。</p><p>8，世界上第一个程序是Hello World：Hello World 中文意思是“你好,世界”。1978年非常著名的《The C Programming Language》中使用它作为第一个演示程序，所以后来的程序员在学习编程或进行设备调试时延续了这一习惯。</p><p>此程序的源代码文件下载方法：关注公众号Kodu，将此文章分享至朋友圈，然后在公众号回复“第四天”。会把源代码文件的链接和提取码发给您。</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Hello World </tag>
+            
+            <tag> 新建世界 </tag>
+            
+            <tag> 对象工具 </tag>
+            
+            <tag> 新增物件 </tag>
+            
+            <tag> 运行Kodu </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>初识Kodu开发软件---Kodu少儿编程第三天</title>
+      <link href="/2020/05/09/%E5%88%9D%E8%AF%86Kodu%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9/"/>
+      <url>/2020/05/09/%E5%88%9D%E8%AF%86Kodu%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>Kodu开发软件是一个很简单易操作的软件，我们来了解一下他的基本功能。</p><a id="more"></a><hr><p>打开Kodu程序，进入软件界面。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/1.jpg" alt="Kodu"></p><p>新闻：</p><p>Kodu的一些新闻。</p><p>Sign In:</p><p>Kodu的用户系统。Creator是用户名，Pin可以理解为密码。不用注册，直接输入用户名和密码就能进入，这个账户就是你的专属账户。</p><p>Keep me signed in when Kodu exits 如果选中，下次登录的时候还进入此账户。</p><p>如果不填写用户名和密码，则用系统默认的Guest用户进入，开始学习时不用填写用户名和密码，直接进入即可。进入后如下图：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/2.jpg" alt="Kodu"></p><p>新闻：</p><p>是Kodu官方的一些新闻，组织活动，更新日志等。点击新闻下面的更多，可以看到更多的新闻。可以看到，现在的新闻是Meet and Code的活动。下面是Kodu发布的日志。最新版的2019年6月12日发布的1.5.47.0。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/3/3.png" alt="Kodu"></p><p>继续：</p><p>打开上次运行过的程序。</p><p>新世界：</p><p>新建程序。</p><p>载入世界：</p><p>进入本机的程序。</p><p>社群：</p><p>Kodu社区的程序，世界各地所有Kodu使用者都可以把自己开发的Kodu程序上传发布到社区。</p><p>选项：</p><p>一些选项配置。</p><p>说明：</p><p>Kodu程序的介绍及使用方法。</p><p>退出KODU：</p><p>退出了KODU开发软件。</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Kodu软件 </tag>
+            
+            <tag> 注册登录 </tag>
+            
+            <tag> Kodu新闻 </tag>
+            
+            <tag> Kodu介绍 </tag>
+            
+            <tag> Kodu使用 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Kodu的下载与安装---Kodu少儿编程第二天</title>
+      <link href="/2020/05/08/Kodu%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%8C%E5%A4%A9/"/>
+      <url>/2020/05/08/Kodu%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><p>今天讲解Kodu的下载与安装<br> <a id="more"></a></p><hr><p>本文介绍Kodu的下载与安装。</p><p>第一步：点击Get Kodu进入下载地址。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/1.jpg" alt="Kodu"></p><p>下载地址：</p><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=10056" target="_blank" rel="noopener">https://www.microsoft.com/en-us/download/details.aspx?id=10056</a></p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/2.png" alt="Kodu"></p><p>点击DownLoad进行下载。</p><p>有两个包可供选择，任选一个进行安装。</p><p>第二步：下载文件双击进行安装。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/3.png" alt="Kodu"></p><p>选择您使用的语言：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/4.png" alt="Kodu"></p><p>接受协议：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/5.png" alt="Kodu"></p><p>选择安装目录：</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/6.png" alt="Kodu"></p><p>至此，Kodu程序就安装好了。您就可以打开桌面上Kodu图标进入Kodu的开发界面。</p><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/2/7.jpg" alt="Kodu"></p><p>Kodu支持的操作系统 ：</p><p>Windows 10, Windows 7, Windows 8, Windows Vista, Windows XP</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Kodu下载 </tag>
+            
+            <tag> Kodu安装 </tag>
+            
+            <tag> Kodu界面 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>什么是Kodu---Kodu少儿编程第一天</title>
+      <link href="/2020/05/08/%E4%BB%80%E4%B9%88%E6%98%AFKodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+      <url>/2020/05/08/%E4%BB%80%E4%B9%88%E6%98%AFKodu-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>Kodu是微软为少年儿童开发的一款可视化编程开发工具。它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。我们今天了解一下Kodu！<br> <a id="more"></a></p><hr><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/1/1.jpg" alt="Kodu"></p><p>Kodu简介：</p><p>Kodu全称Kodu Game Lab，是微软专门为少年儿童开发的一款可视化编程开发工具。Kodu让孩子通过简单的视觉编程语言在电脑上创建3D游戏。</p><p>Kodu可视化游戏编程可能是最能激起儿童的早期编程兴趣的方法了，它可以发挥孩子的创造力，学习解决问题的能力，讲故事的能力，叙事能力，设计及编程能力。无论是孩子还是没有编程经验的成年人都可以使用这款软件。</p><p>Kodu支持用鼠标或键盘操作，内置了多款游戏模式的范例，包括冒险地图，以及若干经典游戏。面向对象的 Kodu 可视化编程，使得任何开发者都可通过某对象的“条件和语句”来实现自己的创意。</p><p>Kodu旨在儿童教育，完全开源免费使用。而且Kodu的社群功能汇集了全世界小朋友们上传的世界，每个人都可以上传自己的世界，也可以下载社群上有趣的世界。</p><p>Kodu支持操作系统：</p><p>Kodu在 XP、Vista、Win7、Win8、Win10都能安装。</p><p>软件特色： Kodu拥有多种动作模块。这种编程方式带来的好处就是：即使是一个三四岁的小孩子，他也可以在最短的时间内完成自己的设想，创造出他的世界，表达出他所要表达的思想。工具越简单，越便于掌握，在小学阶段，就越便于学生用程序设计的方式表达他的个人理念。</p><p>Kodu这款编程工具，可以带给学生全新的3D环境设计的体验，所有内容都是立体的（也许不久之后，还能升级到结合VR、AR效果的虚拟现实编程工具）。</p><p>以编写走迷宫程序为例，以往程序设计中，迷宫是以一种平面图形的方式呈现的，而在Kodu中，完全可以通过设置第一视角的方法，模拟出走迷宫的效果，既通过上帝视角看到迷宫的全貌增加了游戏可玩性，同时也便于学生理解走迷宫的左手定律，为后续的走迷宫机器人编程教学，奠定了体验基础。</p><p>在Kodu中，不管多么复杂的游戏，只有一种语句就是WHEN……DO……，简单说就是在什么时间内（情况下）……去做什么，其他所有模块都是可以在里面进行添加，而能添加的项目，都会出现在环形菜单中的。</p><p>很萌、很酷的角色（物件，对象）。而且所有的角色（物件，对象）都已经创建好了，并且可以根据自己的实际需求进行一些颜色、大小、位置、角度等方面的调整，有些角色看上去非常可爱，有些感觉非常酷。</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Kodu </tag>
+            
+            <tag> 入门 </tag>
+            
+            <tag> 什么是Kodu </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>零基础教会孩子学会Kodu少儿编程---Kodu少儿编程第零天</title>
+      <link href="/2020/05/08/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%9AKodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E9%9B%B6%E5%A4%A9/"/>
+      <url>/2020/05/08/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%9AKodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B-Kodu%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B%E7%AC%AC%E9%9B%B6%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。<br> <a id="more"></a></p><hr><p><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/0/1.jpg" alt="Kodu"></p><p>随着人工智能时候的到来，编程也越来越重要。我们也越来越离不开科技带给我们的便利。2017年浙江开始把技术(信息技术+通用)纳入选考范围。2018年天津，南京中考开始招收智能控制，机器人制作等以编程为基础的特长生。北京等大城市小学就开了编程课。各种培训班也雨后春笋似的冒出来，学习编程也显得越来越重要。</p><p>疫情期间闲来无事，与三岁小儿一起玩了个叫Kodu的编程小软件，挺有意思。孩子懂事，可也太小，没有耐心。程序编不出来总是泪眼婆娑，暗自啜泣。做为父亲，特别不舍。我也没学过，不能灭了他一腔学习热忱。所以，就加紧学了一下，Kodu网上教程少，而且特别初级。所以，我把网上能找到的中英文资料全看了一遍，然后把Kodu软件每一个工具，每一个功能都试一几遍。总结了一些知识和学习技巧。也算初窥门径。至少能挡住小儿的连环三问：“在哪里？怎么弄？为什么”。</p><p>本人程序员，在互联网行业浸淫已久。互联网讲究个啥：分享，免费。程序员弄点东西出来不放github上，就跟程序员不掉头发一样少见。可这个东西放在github，就像男婴拿奶瓶跟叔叔们喝酒，总是感觉怪怪的。所以就弄了一个公众号，把学习到的关于Kodu编程的知识，尽量弄的通俗易懂，放在上面。</p><p>少儿编程的信息，暴风骤雨似的向我们袭来，培训机构也如雨后春笋似的冒出来。家长朋友们又有了新的起跑线焦虑。随之产生了诸多疑问：要不要学少儿编程？几岁学？怎么学?学了有什么用？等等一系列关于少儿编程的问题。有些问题我能解答，有些问题我也不懂。上了学的孩子们肯定都知道“小马过河”的故事，也知道这个故事告诉我们要勇于尝试，所以，让孩子试试吧。</p><p>这系列文章非常适合了解电脑基本操作孩子学习。更适合家长和孩子一起学习。</p><p>此文是个引子，我会一直更新。文章会讲解Kodu的特点、安装、相关配置，Kodu的每个一对象（角色）的使用及特点，Kodu的UI设计及大量实例，并在讲解过程中穿插真实编程中的基本概念。因为是给未接触过编程的孩子写的，所以我会尽量简单，由浅入深。</p><p>学完了咱们的孩子坐着婴儿车，拿着奶瓶坐在院门口晒太阳，也许就会有掉光头发的大叔拿着一本《设计模式》说：“小朋友，我看你骨骼精奇，是万中无一的编程奇才……这本书十块钱卖给你。”一定要告诉孩子，千万别买。咱这儿有免费的公众号可以学。</p><p>学完家长朋友们也再也不会纠结报什么班，花多少钱了。因为咱懂，咱会，咱也是IT圈儿里人了。家长们，让孩子走进编程的世界，看看这个世界有什么，和孩子一起学习，和孩子一起成长。这，一定是您和孩子拥有的一段美丽时光。以后，也是您和孩子一段美好的回忆。</p><p>更多资源请关注公众号：Kodu<br><img src="http://kodugamelab.oss-cn-beijing.aliyuncs.com/gzh.jpg" alt="Kodu公众号"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Kodu </tag>
+            
+            <tag> 少儿编程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
